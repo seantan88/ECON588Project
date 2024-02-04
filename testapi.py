@@ -1,15 +1,14 @@
-# Authors: Sean Tan, Emily Deuchar
-# Description: AESO API call for pool price, convert JSON to clean and readable dataframe, convert cleaned dataframe to csv for further use
-
-## TODO ##
-# - user input for date and api calls?
-
 # import necessary packages
 import json
 import requests
 import datetime
 import time
 import pandas as pd
+
+
+## TODO ##
+# - user input for date and api calls?
+
 
 # initialize dates for length of data to be requested
 jan = datetime.date(2023,1,1)
@@ -18,7 +17,7 @@ formatted_jan = jan.strftime('%Y-%m-%d')
 formatted_dec = dec.strftime('%Y-%m-%d')
 
 # initialize api url with changeable dates
-api_url = f'https://api.aeso.ca/report/v1.1/price/poolPrice?startDate={formatted_jan}&endDate={formatted_dec}'
+api_url = f'https://api.aeso.ca/report/v1.1/price/systemMarginalPrice?startDate={formatted_jan}&endDate={formatted_dec}'
 
 # initialize requests header, including valid API key
 AESO_header = {'accept': 'application/json' , 'X-API-Key': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJydmM2d2IiLCJpYXQiOjE3MDYwMjMyNzB9.zWQ2w5TnM9keQRNZwrTBAKRnQMKEMF4D5tnbLWV6WDQ'}
@@ -29,15 +28,20 @@ data = json.loads(res.text)
 
 # normalize the JSON data into flat table
 df = pd.json_normalize(data)
+print(df.head())
 
-# get list of dictionaries from df
-pool_price_list = df.loc[0, 'return.Pool Price Report']
+# create new intermediary dataframe containing 'return.Pool Price Report' column
+#pp_df = pd.DataFrame(df[2])
+
+# get list of dictionaries from pp_df
+#pool_price_list = df.loc[0, 2]
 
 # convert list of dictionaries into readable and clean dataframe ready for usage
-pool_price_df = pd.DataFrame(pool_price_list)
-pool_price_df = pool_price_df.drop(['begin_datetime_utc'], axis=1)
+#pool_price_df = pd.DataFrame(pool_price_list)
+#pool_price_df = pool_price_df.drop(['begin_datetime_utc'], axis=1)
 
 # print first 5 rows of cleaned dataframe to verify correct format
-print(pool_price_df.head())
+#print(pool_price_df.head())
 
-pool_price_df.to_csv("pool_price.csv")
+#pool_price_df.to_csv("system_marginal_price.csv")
+
