@@ -1,8 +1,10 @@
 # Authors: Sean Tan, Emily Deuchar
 # Description: AESO API call for pool price, convert JSON to clean and readable dataframe, convert cleaned dataframe to csv for further use
 
-## TODO ##
+## TODO & NOTE ##
 # - user input for date and api calls?
+# - system marginal price and merit order have some issues regarding request restrictions
+# - procedural vs functions?
 
 # import necessary packages
 import json
@@ -12,13 +14,11 @@ import time
 import pandas as pd
 
 # initialize dates for length of data to be requested
-jan = datetime.date(2023,1,1)
-dec = datetime.date(2023,12,31)
-formatted_jan = jan.strftime('%Y-%m-%d')
-formatted_dec = dec.strftime('%Y-%m-%d')
+jan = datetime.date(2023,1,1).strftime('%Y-%m-%d')
+dec = datetime.date(2023,12,31).strftime('%Y-%m-%d')
 
 # initialize api url with changeable dates
-api_url = f'https://api.aeso.ca/report/v1.1/price/poolPrice?startDate={formatted_jan}&endDate={formatted_dec}'
+api_url = f'https://api.aeso.ca/report/v1.1/price/poolPrice?startDate={jan}&endDate={dec}'
 
 # initialize requests header, including valid API key
 AESO_header = {'accept': 'application/json' , 'X-API-Key': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJydmM2d2IiLCJpYXQiOjE3MDYwMjMyNzB9.zWQ2w5TnM9keQRNZwrTBAKRnQMKEMF4D5tnbLWV6WDQ'}
