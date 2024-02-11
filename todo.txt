@@ -1,0 +1,3 @@
+- get merit order data into daily form , or collate all intervals of data into a master data set
+- then trim dataset(s) to only include combined cycle plants
+    - could use list of combined cycle id's to filter

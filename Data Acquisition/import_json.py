@@ -15,10 +15,11 @@ import pandas as pd
 
 # initialize dates for length of data to be requested
 jan = datetime.date(2023,1,1).strftime('%Y-%m-%d')
+jun = datetime.date(2023,6,1).strftime('%Y-%m-%d')
 dec = datetime.date(2023,12,31).strftime('%Y-%m-%d')
 
 # initialize api url with changeable dates
-api_url = f'https://api.aeso.ca/report/v1.1/price/poolPrice?startDate={jan}&endDate={dec}'
+api_url = f'https://api.aeso.ca/report/v1/meritOrder/energy?startDate={jan}&endDate={jun}'
 
 # initialize requests header, including valid API key
 AESO_header = {'accept': 'application/json' , 'X-API-Key': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJydmM2d2IiLCJpYXQiOjE3MDYwMjMyNzB9.zWQ2w5TnM9keQRNZwrTBAKRnQMKEMF4D5tnbLWV6WDQ'}
@@ -29,17 +30,21 @@ data = json.loads(res.text)
 
 # normalize the JSON data into flat table
 df = pd.json_normalize(data)
+print(df.head())
 
 # get list of dictionaries from df
-pool_price_list = df.loc[0, 'return.Pool Price Report']
+pool_price_list = df.loc[0, 'return.data']
 
 # convert list of dictionaries into readable and clean dataframe ready for usage
 pool_price_df = pd.DataFrame(pool_price_list)
-pool_price_df = pool_price_df.drop(['begin_datetime_utc'], axis=1)
+merit_order_list = pool_price_df.loc[0,'energy_blocks']
+#pool_price_df = pool_price_df.drop(['begin_datetime_utc'], axis=1)
+merit_order_df = pd.DataFrame(merit_order_list)
 
 # print first 5 rows of cleaned dataframe to verify correct format
-print(pool_price_df.info())
-pool_price_df.to_csv("pool_price.csv")
+print(merit_order_list)
+print(merit_order_df.head())
+merit_order_df.to_csv("merit_order.csv")
 
 
 
