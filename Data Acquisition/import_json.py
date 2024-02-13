@@ -29,22 +29,22 @@ res = requests.get(api_url, headers = AESO_header)
 data = json.loads(res.text)
 
 # normalize the JSON data into flat table
-df = pd.json_normalize(data)
-print(df.head())
+df1 = pd.json_normalize(data)
+#print(df1.head())
 
 # get list of dictionaries from df
-pool_price_list = df.loc[0, 'return.data']
+df1_list = df1.loc[0, 'return.data']
 
 # convert list of dictionaries into readable and clean dataframe ready for usage
-pool_price_df = pd.DataFrame(pool_price_list)
-merit_order_list = pool_price_df.loc[0,'energy_blocks']
+df2 = pd.DataFrame(df1_list)
+df2_list = df2.loc[0,'energy_blocks']
 #pool_price_df = pool_price_df.drop(['begin_datetime_utc'], axis=1)
-merit_order_df = pd.DataFrame(merit_order_list)
+df3 = pd.DataFrame(df2_list)
 
 # print first 5 rows of cleaned dataframe to verify correct format
-print(merit_order_list)
-print(merit_order_df.head())
-merit_order_df.to_csv("merit_order.csv")
+
+print(df2.info())
+df3.to_csv("merit_order.csv")
 
 
 
