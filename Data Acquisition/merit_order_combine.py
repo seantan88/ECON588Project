@@ -8,12 +8,13 @@ import pandas as pd
 # initialize dates for length of data to be requested
 jan = datetime.date(2023,1,1)
 jun = datetime.date(2023,6,1).strftime('%Y-%m-%d')
-dec = datetime.date(2023,12,31).strftime('%Y-%m-%d')
+dec = datetime.date(2023,12,28)
 
-
+count = 1
+t = 10
 master_df = pd.DataFrame()
 
-for i in range(2):
+for i in range(334):
     date = jan.strftime('%Y-%m-%d')
 
     # initialize api url with changeable dates
@@ -28,7 +29,7 @@ for i in range(2):
 
     # normalize the JSON data into flat table
     df1 = pd.json_normalize(data)
-    #print(df1.info())
+    print(df1.head())
 
     # get list of dictionaries from df
     df1_list = df1.loc[0, 'return.data']
@@ -36,10 +37,17 @@ for i in range(2):
     # convert list of dictionaries into readable and clean dataframe ready for usage
     df2 = pd.DataFrame(df1_list)
 
+    # concatenate dataframe into master dataframe
     master_df = pd.concat([master_df,df2], axis=0, ignore_index =True)
 
     # print first 5 rows of cleaned dataframe to verify correct format
     jan = jan + datetime.timedelta(days=1)
+
+    print('request ' + str(count) + ' successful')
+    count +=1
+    # wait 10 seconds
+    time.sleep(t)
+    
 
 
 
