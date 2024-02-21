@@ -1,25 +1,15 @@
 import pandas as pd
 
 
-# read the csv files in chunks
-chunksize = 10 ** 6  # adjust this value to fit your available memory
-chunks = []
+df1 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/CSD Data/CSD Generation (Hourly) - 2023-01 to 2023-06.csv")
+df2 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/Merit Order Data/Monthly Data/daily_merit_first6mos.csv")
 
-for chunk in pd.read_csv(r"C:\Users\seanh\Documents\GitHub\ECON588Project\CSV data\Merit Order Data\daily_merit_trim_asset.csv", chunksize=chunksize):
-    # process each chunk here
-    chunks.append(chunk)
+# want to reame Asset Short Name to 'asset_ID' in df1
+df1.rename(columns = {'Asset Short Name': 'asset_ID'}, inplace = True)
+# merge the two dataframes
+df3 = pd.merge(df1, df2, on = 'asset_ID')
 
-df1 = pd.concat(chunks, axis=0)
 
-# repeat for df2
-chunks = []
-for chunk in pd.read_csv(r"C:\Users\seanh\Documents\GitHub\ECON588Project\CSV data\CSD Data\CSD_Generation_2023.csv", chunksize=chunksize):
-    chunks.append(chunk)
-
-df2 = pd.concat(chunks, axis=0)
-
-# merge the dataframes
-df3 = pd.merge(df1, df2, left_on = 'asset_ID', right_on = 'Asset Short Name')
 
 # drop unnecessary columns
 df3 = df3[['block_price', 'Planning Area', 'asset_ID']]
@@ -54,6 +44,7 @@ for asset in asset_IDs:
         df6 = df5[df5['Planning Area'] == area]
         # create a numpy array from the block_price column
         X = df6['block_price'].values
+        print(X)
         # reshape the array
         X = X.reshape(-1, 1)
         # run the KMeans algorithm
