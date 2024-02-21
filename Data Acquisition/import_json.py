@@ -19,7 +19,7 @@ jun = datetime.date(2023,6,1).strftime('%Y-%m-%d')
 dec = datetime.date(2023,12,31).strftime('%Y-%m-%d')
 
 # initialize api url with changeable dates
-api_url = f'https://api.aeso.ca/report/v1/meritOrder/energy?startDate={jan}&endDate={jun}'
+api_url = f'https://api.aeso.ca/report/v1/poolparticipantlist'
 
 # initialize requests header, including valid API key
 AESO_header = {'accept': 'application/json' , 'X-API-Key': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJydmM2d2IiLCJpYXQiOjE3MDYwMjMyNzB9.zWQ2w5TnM9keQRNZwrTBAKRnQMKEMF4D5tnbLWV6WDQ'}
@@ -33,18 +33,18 @@ df1 = pd.json_normalize(data)
 #print(df1.head())
 
 # get list of dictionaries from df
-df1_list = df1.loc[0, 'return.data']
+df1_list = df1.loc[0, 'return']
 
 # convert list of dictionaries into readable and clean dataframe ready for usage
 df2 = pd.DataFrame(df1_list)
-df2_list = df2.loc[0,'energy_blocks']
+
 #pool_price_df = pool_price_df.drop(['begin_datetime_utc'], axis=1)
-df3 = pd.DataFrame(df2_list)
+
 
 # print first 5 rows of cleaned dataframe to verify correct format
 
 print(df2.info())
-df3.to_csv("merit_order.csv")
+df2.to_csv("pool_participant.csv")
 
 
 
