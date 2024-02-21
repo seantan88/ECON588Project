@@ -67,13 +67,16 @@ for asset in asset_IDs:
     for area in planning_areas:
         df6 = df5[df5['Planning Area'] == area]
         X = df6['block_price'].values
-        X = X.reshape(-1, 1)
-        kmeans = KMeans(n_clusters = 3)
-        kmeans.fit(X)
-        plt.scatter(X, kmeans.labels_)
-        plt.scatter(kmeans.cluster_centers_, [0, 1, 2], c = 'red')
-        plt.title(f'{asset} {area}')
-        plt.show()
+        if X.size > 0:
+            X = X.reshape(-1, 1)
+            kmeans = KMeans(n_clusters = 3)
+            kmeans.fit(X)
+            plt.scatter(X[:, 0], [area]*len(X), c=kmeans.labels_)
+            plt.scatter(kmeans.cluster_centers_, [area]*3, c='red')
+        else:
+            print(f"No data for asset {asset} in planning area {area}")
+    plt.title(f'{asset}')
+    plt.show()
 
 
 
