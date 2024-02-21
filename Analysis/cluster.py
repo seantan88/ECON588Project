@@ -1,8 +1,8 @@
 import pandas as pd
 
 
-df1 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/CSD Data/CSD Generation (Hourly) - 2023-01 to 2023-06.csv")
-df2 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/Merit Order Data/Monthly Data/daily_merit_first6mos.csv")
+df1 = pd.read_csv(r"C:\Users\seanh\Documents\GitHub\ECON588Project\CSV data\CSD Data\CSD Generation (Hourly) - 2023-01 to 2023-06.csv")
+df2 = pd.read_csv(r"C:\Users\seanh\Documents\GitHub\ECON588Project\CSV data\Merit Order Data\Monthly Data\daily_merit_first6mos.csv")
 
 # want to reame Asset Short Name to 'asset_ID' in df1
 df1.rename(columns = {'Asset Short Name': 'asset_ID'}, inplace = True)
@@ -33,6 +33,8 @@ cluster_centers = {}
 
 # iterate through the unique asset_IDs
 
+from sklearn.cluster import KMeans
+
 for asset in asset_IDs:
     # create a dataframe for each asset
     df5 = df4[df3['asset_ID'] == asset]
@@ -44,14 +46,18 @@ for asset in asset_IDs:
         df6 = df5[df5['Planning Area'] == area]
         # create a numpy array from the block_price column
         X = df6['block_price'].values
-        print(X)
-        # reshape the array
-        X = X.reshape(-1, 1)
-        # run the KMeans algorithm
-        kmeans = KMeans(n_clusters = 3)
-        kmeans.fit(X)
-        # append the cluster centers to the list
-        centers.append(kmeans.cluster_centers_)
+        # check if X is not empty
+        if X.size > 0:
+            print(X)
+            # reshape the array
+            X = X.reshape(-1, 1)
+            # run the KMeans algorithm
+            kmeans = KMeans(n_clusters = 3)
+            kmeans.fit(X)
+            # append the cluster centers to the list
+            centers.append(kmeans.cluster_centers_)
+        else:
+            print(f"No data for asset {asset} in planning area {area}")
     # add the list of cluster centers to the dictionary
     cluster_centers[asset] = centers
 
