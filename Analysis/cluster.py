@@ -1,87 +1,100 @@
 import pandas as pd
 
 
-df1 = pd.read_csv(r"C:\Users\seanh\Documents\GitHub\ECON588Project\CSV data\CSD Data\CSD Generation (Hourly) - 2023-01 to 2023-06.csv")
-df2 = pd.read_csv(r"C:\Users\seanh\Documents\GitHub\ECON588Project\CSV data\Merit Order Data\Monthly Data\daily_merit_first6mos.csv")
+df1 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/CSD Data/CSD Generation (Hourly) - 2023-01 to 2023-06.csv")
+df2 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/Merit Order Data/Monthly Data/daily_merit_first6mos.csv")
 
-# want to reame Asset Short Name to 'asset_ID' in df1
+# rename Asset Short Name to 'asset_ID' in df1
 df1.rename(columns = {'Asset Short Name': 'asset_ID'}, inplace = True)
-# merge the two dataframes
-df3 = pd.merge(df1, df2, on = 'asset_ID')
+# rename Date (MPT) to 'begin_dateTime_mpt' in df1
+df1.rename(columns = {'Date (MPT)': 'begin_dateTime_mpt'}, inplace = True)
+# drop unnecessary columns in df1
+df1 = df1[['begin_dateTime_mpt', 'asset_ID', 'System Capability']]
+# merge the two dataframes on the 'asset_ID' and 'begin_dateTime_mpt' columns
+df3 = pd.merge(df1, df2, on = ['asset_ID', 'begin_dateTime_mpt'], how = 'inner')
+
+
 
 
 
 # drop unnecessary columns
-df3 = df3[['block_price', 'Planning Area', 'asset_ID']]
+df3 = df3[['begin_dateTime_mpt','block_price', 'System Capability', 'asset_ID']]
+# drop any rows with NaN values
 df3 = df3.dropna()
+# save the combined dataframe to a csv file
+df3.to_csv('CSD_Merit_2023.csv')
 
 # run a cluster analysis
 from sklearn.cluster import KMeans
 import numpy as np
 import matplotlib.pyplot as plt
 
-# create a dataframe with only the block_price and planning area columns
-df4 = df3[['block_price', 'Planning Area']]
-# create a list of the unique planning areas
 
-planning_areas = df4['Planning Area'].unique()
-# create a list of the unique asset_IDs
-asset_IDs = df3['asset_ID'].unique()
 
-# create a dictionary to store the cluster centers
-cluster_centers = {}
+# perform the elbow method to determine the optimal number of clusters
+# create a list of inertia values for each number of clusters
+inertia = []
+# loop through the number of clusters from 1 to 10
+for i in range(1, 11):
+    # create a kmeans model
+    kmeans = KMeans(n_clusters = i, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)
+    # fit the model to the features
+    kmeans.fit(df3[['block_price', 'System Capability']])
+    # append the inertia value to the list
+    inertia.append(kmeans.inertia_)
 
-# iterate through the unique asset_IDs
 
-from sklearn.cluster import KMeans
+# plot the inertia values
+#plt.plot(range(1, 11), inertia)
+# add labels
+#plt.title('Elbow Method')
+#plt.xlabel('Number of clusters')
+#plt.ylabel('Inertia')
+# show the plot
+#plt.show()
 
-for asset in asset_IDs:
-    # create a dataframe for each asset
-    df5 = df4[df3['asset_ID'] == asset]
-    # create a list to store the cluster centers
-    centers = []
-    # iterate through the unique planning areas
-    for area in planning_areas:
-        # create a dataframe for each planning area
-        df6 = df5[df5['Planning Area'] == area]
-        # create a numpy array from the block_price column
-        X = df6['block_price'].values
-        # check if X is not empty
-        if X.size > 0:
-            print(X)
-            # reshape the array
-            X = X.reshape(-1, 1)
-            # run the KMeans algorithm
-            kmeans = KMeans(n_clusters = 3)
-            kmeans.fit(X)
-            # append the cluster centers to the list
-            centers.append(kmeans.cluster_centers_)
-        else:
-            print(f"No data for asset {asset} in planning area {area}")
-    # add the list of cluster centers to the dictionary
-    cluster_centers[asset] = centers
 
-# create a plot for each asset and planning area
-for asset in asset_IDs:
-    df5 = df4[df3['asset_ID'] == asset]
-    for area in planning_areas:
-        df6 = df5[df5['Planning Area'] == area]
-        X = df6['block_price'].values
-        if X.size > 0:
-            X = X.reshape(-1, 1)
-            kmeans = KMeans(n_clusters = 3)
-            kmeans.fit(X)
-            plt.scatter(X[:, 0], [area]*len(X), c=kmeans.labels_)
-            plt.scatter(kmeans.cluster_centers_, [area]*3, c='red')
-        else:
-            print(f"No data for asset {asset} in planning area {area}")
-    plt.title(f'{asset}')
-    plt.show()
+
+
+
+
+
+
+
+# fit the kmeans model to the features, using 3 clusters
+kmeans = KMeans(n_clusters = 3, init = 'k-means++', max_iter = 300, n_init = 10, random_state = 0)
+# fit the model to the features
+kmeans.fit(df3[['block_price', 'System Capability']])
+# add a new column to df3 that contains the cluster labels
+df3['cluster'] = kmeans.labels_
+# create new figure
+plt.figure()
+
+# plot the clusters
+plt.scatter(df3['block_price'], df3['System Capability'], c = kmeans.labels_, cmap = 'viridis')
+# plot the centroids
+plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s = 300, c = 'red')
+# add the generator ids to the plot so we can see which generators are in each cluster
+#for i in range(len(df3['asset_ID'])):
+    #plt.text(df3['block_price'][i], df3['System Capability'][i], df3['asset_ID'][i])
+# add labels
+plt.title('Clusters of Generators')
+plt.xlabel('Block Price')
+plt.ylabel('System Capability')
+# show the plot
+plt.show()
+
+
+
+
+
+
+
+
 
 
 
 
         
-
 
 

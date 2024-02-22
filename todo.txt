@@ -1,3 +1,36 @@
 - get merit order data into daily form , or collate all intervals of data into a master data set
 - then trim dataset(s) to only include combined cycle plants
     - could use list of combined cycle id's to filter
+
+
+
+
+
+TO ASK:
+- Is limiting to just combined cycle plants going to harm our interpretation/results (only 7 combined cycle plants in dataset)
+    - There are not many combined cycle plants, most in 1 of 4 regions
+    - is this sample size too small?
+    - will we be able to observe differences in these plants given that they are already so similar (already same type)
+
+- Feature selection may be impacted by this, as they are all in 1 of 4 regions (calgary, central, northwest, south)
+    - feel as though location is not relevant Feature
+
+- exploring using system capability and block price / bid price
+    - emily in charge heat rate data, will be added afterwards 
+
+- is using block price appropriate
+    - feel as though the other features such as cost derived heat rate, location, etc. will determine the bid price or bid behaviour of the plant
+    - will including the block price be 'overlapping' with the other features included
+
+
+    see if simple cycles operate like combined cycles
+    observe low deamdn times, is price higher than normal?
+    differing supply conditions
+    behaviour chagning 
+    is offer behaviour consistent over time or differing? is that market power?
+
+
+    combine heat rate with prevailing natrual gas price
+
+    competitive price may not always be MC, need to recover fixed costs, dont confuse this with market power
+    LRMC
