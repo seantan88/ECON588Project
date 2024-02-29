@@ -1,4 +1,8 @@
-
+# TODO
+# - Get estimated marginal cost
+# - Trim data to off-peak hours?
+# - Reduce timeframe? or sort out messy labels
+#   - Possibly monthly cluster?
 
 # run a cluster analysis
 from sklearn.cluster import KMeans
@@ -56,8 +60,8 @@ plt.scatter(df3['block_price'], df3['System Capability'], c = kmeans.labels_, cm
 # plot the centroids
 plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s = 300, c = 'red')
 # add the generator ids to the plot so we can see which generators are in each cluster
-for i in range(len(df3['asset_ID'])):
-    plt.text(df3['block_price'][i], df3['System Capability'][i], df3['asset_ID'][i])
+#for i in range(len(df3['asset_ID'])):
+    #plt.text(df3['block_price'][i], df3['System Capability'][i], df3['asset_ID'][i])
 # add labels
 plt.title('Clusters of Generators')
 plt.colorbar(label= 'Cluster')
