@@ -1,33 +1,12 @@
-import pandas as pd
 
-
-df1 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/CSD Data/CSD Generation (Hourly) - 2023-01 to 2023-06.csv")
-df2 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/Merit Order Data/Monthly Data/daily_merit_first6mos.csv")
-
-# rename Asset Short Name to 'asset_ID' in df1
-df1.rename(columns = {'Asset Short Name': 'asset_ID'}, inplace = True)
-# rename Date (MPT) to 'begin_dateTime_mpt' in df1
-df1.rename(columns = {'Date (MPT)': 'begin_dateTime_mpt'}, inplace = True)
-# drop unnecessary columns in df1
-df1 = df1[['begin_dateTime_mpt', 'asset_ID', 'System Capability']]
-# merge the two dataframes on the 'asset_ID' and 'begin_dateTime_mpt' columns
-df3 = pd.merge(df1, df2, on = ['asset_ID', 'begin_dateTime_mpt'], how = 'inner')
-
-
-
-
-
-# drop unnecessary columns
-df3 = df3[['begin_dateTime_mpt','block_price', 'System Capability', 'asset_ID']]
-# drop any rows with NaN values
-df3 = df3.dropna()
-# save the combined dataframe to a csv file
-df3.to_csv('CSD_Merit_2023.csv')
 
 # run a cluster analysis
 from sklearn.cluster import KMeans
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
+
+df3 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/Combined Data/CSD_Merit_2023.csv")
 
 
 
@@ -77,10 +56,11 @@ plt.scatter(df3['block_price'], df3['System Capability'], c = kmeans.labels_, cm
 # plot the centroids
 plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s = 300, c = 'red')
 # add the generator ids to the plot so we can see which generators are in each cluster
-#for i in range(len(df3['asset_ID'])):
-    #plt.text(df3['block_price'][i], df3['System Capability'][i], df3['asset_ID'][i])
+for i in range(len(df3['asset_ID'])):
+    plt.text(df3['block_price'][i], df3['System Capability'][i], df3['asset_ID'][i])
 # add labels
 plt.title('Clusters of Generators')
+plt.colorbar(label= 'Cluster')
 plt.xlabel('Block Price ($)')
 plt.ylabel('System Capability (MW)')
 # show the plot
