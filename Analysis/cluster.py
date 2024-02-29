@@ -52,6 +52,8 @@ for i in range(1, 11):
 #plt.ylabel('Inertia')
 # show the plot
 #plt.show()
+    
+    ## RESULT OF ELBOW METHOD: 3 CLUSTERS ##
 
 
 
@@ -79,8 +81,8 @@ plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s = 30
     #plt.text(df3['block_price'][i], df3['System Capability'][i], df3['asset_ID'][i])
 # add labels
 plt.title('Clusters of Generators')
-plt.xlabel('Block Price')
-plt.ylabel('System Capability')
+plt.xlabel('Block Price ($)')
+plt.ylabel('System Capability (MW)')
 # show the plot
 plt.show()
 
