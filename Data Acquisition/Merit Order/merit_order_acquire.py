@@ -1,3 +1,6 @@
+# File Description: Acquire merit order data from AESO API for the year 2023 
+# Author: Sean Tan
+
 # import necessary packages
 import json
 import requests

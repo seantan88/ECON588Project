@@ -1,3 +1,5 @@
+# File Description: Combine CSD generation data for 2023, refine data to only include combined cycle generation, and save to a csv file
+# Author: Sean Tan
 
 import pandas as pd
 

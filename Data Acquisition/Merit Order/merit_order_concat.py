@@ -1,3 +1,6 @@
+# File Description: Combine Merit Order data for the first 6 months of 2023, refine data to only include the following columns: begin_dateTime_mpt, asset_ID, block_price, and offer_control, and save to a csv file
+# Author: Sean Tan
+
 import pandas as pd
 
 # read the csv files into dataframes

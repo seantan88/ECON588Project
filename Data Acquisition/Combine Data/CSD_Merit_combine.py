@@ -1,3 +1,6 @@
+# File Description: Combine CSD and Merit Order data (currently for first 6mos of 2023)
+# Author: Sean Tan
+
 import pandas as pd
 
 

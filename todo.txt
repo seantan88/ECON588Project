@@ -1,36 +1,15 @@
-- get merit order data into daily form , or collate all intervals of data into a master data set
-- then trim dataset(s) to only include combined cycle plants
-    - could use list of combined cycle id's to filter
+ß
+slice data 
+- i.e aggregate offers at 7 am, whats the std deviation of these offers, average offerat that time of daily
+    - use the std dev. to see very consistent bid pattern generators vs erratic bid pattern generators
+- have reasonable number of features
+- scale/ include all dispatchable output
+- if too granular, could move to off peak / on peak, super peak etc.
+- determine a way to collapse multiple bid offers into a consice usable dataset, that is consistent across all generators
+- prices at set block intervals, i.e. price at 25% capacity, 50% capacity, 75%, so on
+- Baseload plants are expensive to startup/shutdown, therefore there is a min. generation needed to make it worth it, often may bid a 0$
 
 
-
-
-
-TO ASK:
-- Is limiting to just combined cycle plants going to harm our interpretation/results (only 7 combined cycle plants in dataset)
-    - There are not many combined cycle plants, most in 1 of 4 regions
-    - is this sample size too small?
-    - will we be able to observe differences in these plants given that they are already so similar (already same type)
-
-- Feature selection may be impacted by this, as they are all in 1 of 4 regions (calgary, central, northwest, south)
-    - feel as though location is not relevant Feature
-
-- exploring using system capability and block price / bid price
-    - emily in charge heat rate data, will be added afterwards 
-
-- is using block price appropriate
-    - feel as though the other features such as cost derived heat rate, location, etc. will determine the bid price or bid behaviour of the plant
-    - will including the block price be 'overlapping' with the other features included
-
-
-    see if simple cycles operate like combined cycles
-    observe low deamdn times, is price higher than normal?
-    differing supply conditions
-    behaviour chagning 
-    is offer behaviour consistent over time or differing? is that market power?
-
-
-    combine heat rate with prevailing natrual gas price
-
-    competitive price may not always be MC, need to recover fixed costs, dont confuse this with market power
-    LRMC
+- more valuable to have simple analysis on larger set of generators, rather than very complicated analysis on small set of generators
+    - exclude wind and solar assets, since they bid in a 0 oftentimes
+    - if time allows, we could include them

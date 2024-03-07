@@ -1,3 +1,6 @@
+# File Description: Split daily_merit_trim_asset.csv into csv files for each unique year and month 
+# Author: Sean Tan 
+
 import pandas as pd
 
 # read the csv file into a dataframe
