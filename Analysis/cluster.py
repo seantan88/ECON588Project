@@ -170,23 +170,3 @@ plt.xlabel('System Capability (MW)')
 plt.ylabel('Block Price ($)')
 # show the plot
 #plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
