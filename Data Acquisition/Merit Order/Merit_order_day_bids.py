@@ -1,4 +1,4 @@
-#File Discription: 
+#File Discription: Create a graph that shows the highest bids compared to the marginal cost
 #Author: Emily Deuchar
 
 # January 2023 - March 2023 visualization: We chose 3 months at a time so that the data would be easier to see
