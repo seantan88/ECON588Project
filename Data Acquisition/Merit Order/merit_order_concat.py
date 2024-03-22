@@ -15,7 +15,7 @@ df6 = pd.read_csv("2023_6.csv")
 df7 = pd.concat([df1, df2, df3, df4, df5, df6])
 
 # drop unnecessary columns
-df7 = df7[['begin_dateTime_mpt', 'asset_ID', 'block_price', 'offer_control', 'block_size']]
+df7 = df7[['begin_dateTime_mpt', 'asset_ID', 'block_price', 'offer_control', 'block_size', 'dispatched?']]
 
 # convert the dataframe to csv file
 df7.to_csv('daily_merit_MW_first6mos.csv')

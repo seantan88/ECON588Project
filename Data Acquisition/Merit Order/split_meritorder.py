@@ -31,7 +31,7 @@ for year in years:
 
 # save each dataframe to a csv file
 for key, value in df_dict.items():
-    value = value[['begin_dateTime_mpt', 'asset_ID', 'block_price', 'offer_control', 'block_size']]
+    value = value[['begin_dateTime_mpt', 'asset_ID', 'block_price', 'offer_control', 'block_size', 'dispatched?']]
     value.to_csv(f'{key}.csv')
 
 
