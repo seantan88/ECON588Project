@@ -12,7 +12,7 @@ df1.rename(columns = {'Asset Short Name': 'asset_ID'}, inplace = True)
 # rename Date (MPT) to 'begin_dateTime_mpt' in df1
 df1.rename(columns = {'Date (MPT)': 'begin_dateTime_mpt'}, inplace = True)
 # drop unnecessary columns in df1
-df1 = df1[['begin_dateTime_mpt', 'asset_ID', 'System Capability']]
+df1 = df1[['begin_dateTime_mpt', 'asset_ID' ]]
 # merge the two dataframes on the 'asset_ID' and 'begin_dateTime_mpt' columns
 df3 = pd.merge(df1, df2, on = ['asset_ID', 'begin_dateTime_mpt'], how = 'inner')
 
@@ -21,8 +21,8 @@ df3 = pd.merge(df1, df2, on = ['asset_ID', 'begin_dateTime_mpt'], how = 'inner')
 
 
 # drop unnecessary columns
-df3 = df3[['begin_dateTime_mpt','block_price', 'System Capability', 'asset_ID']]
+df3 = df3[['begin_dateTime_mpt','block_price', 'asset_ID', 'MW']]
 # drop any rows with NaN values
 df3 = df3.dropna()
 # save the combined dataframe to a csv file
-df3.to_csv('CSD_Merit_2023.csv')
+df3.to_csv('blockprice_MW_6mos.csv')

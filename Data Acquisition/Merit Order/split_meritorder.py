@@ -4,7 +4,7 @@
 import pandas as pd
 
 # read the csv file into a dataframe
-df1 = pd.read_csv(r"/Users/seantan88/Documents/GitHub/ElectricityCluster/CSV data/Merit Order Data/daily_merit_trim_asset.csv")
+df1 = pd.read_csv("daily_merit_MW.csv")
 
 # convert the date column to a datetime object
 df1['begin_dateTime_mpt'] = pd.to_datetime(df1['begin_dateTime_mpt'])
@@ -31,7 +31,7 @@ for year in years:
 
 # save each dataframe to a csv file
 for key, value in df_dict.items():
-    value = value[['begin_dateTime_mpt', 'asset_ID', 'block_price', 'offer_control']]
+    value = value[['begin_dateTime_mpt', 'asset_ID', 'block_price', 'offer_control', 'block_size']]
     value.to_csv(f'{key}.csv')
 
 
