@@ -14,7 +14,7 @@ jun = datetime.date(2023,6,1).strftime('%Y-%m-%d')
 dec = datetime.date(2023,12,28)
 
 count = 1
-t = 10
+t = 2
 master_df = pd.DataFrame()
 
 for i in range(334):
@@ -22,6 +22,7 @@ for i in range(334):
 
     # initialize api url with changeable dates
     api_url = f'https://api.aeso.ca/report/v1/meritOrder/energy?startDate={jan}'
+    print(jan)
 
     # initialize requests header, including valid API key
     AESO_header = {'accept': 'application/json' , 'X-API-Key': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJydmM2d2IiLCJpYXQiOjE3MDYwMjMyNzB9.zWQ2w5TnM9keQRNZwrTBAKRnQMKEMF4D5tnbLWV6WDQ'}
