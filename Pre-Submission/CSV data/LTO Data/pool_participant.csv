@@ -1,0 +1,2736 @@
+,pool_participant_name,pool_participant_ID,corporate_contact,agent_list
+0,1772387 Alberta Limited Partnership,ENE2,"2000 10423 101 St NW 
+2000 10423 101 St NW 
+Edmonton, Alberta T5H 0E8 
+ Phone: 780-412-3959 
+ Fax: 000-000-0000 
+ Attn: Lianne Redmond 
+",
+1,1772387 Alberta Limited Partnership,ENEP,"2000 10423 101 Street NW 
+2000 10423 101 Street NW 
+Edmonton, Alberta T5H 0E8 
+ Phone: 780-412-3959 
+ Fax: 000-000-0000 
+ Attn: Lianne Redmond 
+",
+2,1772387 Alberta Limited Partnership,CPEP,"2000 - 10423 101 St NW 
+2000 - 10423 101 St NW 
+Edmonton, Alberta T5H 0E8 
+ Phone: 780-412-3814 
+ Fax: 780-412-3814 
+ Attn: Chantelle Kuchma 
+","[{'agent_ID': 'EEAG', 'agent_name': 'EPCOR Energy Alberta GP Inc.'}]"
+3,1867559 Alberta Ltd.,IRPG,"525 8th Avenue SW, Suite 900 
+525 8th Avenue SW, Suite 900 
+Calgary, AB T2P 1G1 
+ Phone: 403-261-9584 
+ Fax: 403-503-5319 
+ Attn: Paulina Stewart 
+",
+4,2183270 Alberta Ltd.,PCAB,"59430 Hwy 831 
+RR#1 
+59430 Hwy 831 
+Waskatenau, Alberta T0A 3P0 
+ Phone: 780-691-7104 
+ Fax: 780-358-2434 
+ Attn: Mike Diachyshyn 
+",
+5,ADM Agri-Industries Company,ADM,"PO Box 1620 
+PO Box 1620 
+Lloydminster, Alberta S9V 1K5 
+ Phone: 217-451-2392 
+ Fax: xxx-xxx-xxxx 
+ Attn: Brian Hillman 
+",
+6,AECO Gas Storage Partnership,AECO,"Suite 400, 607 - 8th Ave SW 
+Suite 400, 607 - 8th Ave SW 
+Calgary, AB T2P 0A7 
+ Phone: 403/513-8657 
+ Fax: 403/266-0639 
+ Attn: Mathieu Fournier 
+",
+7,AESO - Transmission,TAOA,"2500, 330 - 5th Avenue S.W. 
+2500, 330 - 5th Avenue S.W. 
+Calgary, AB T2P 0L4 
+ Phone: (403)539-2450 
+ Fax: (403)539-2949 
+ Attn: Transmission Payables 
+",
+8,AESO - Transmission 2,TAOB,"2500, 330 - 5th Avenue SW 
+2500, 330 - 5th Avenue SW 
+Calgary, AB T2P 0L4 
+ Phone: (403) 539-2450 
+ Fax: (403) 539-2949 
+ Attn: Transmission Payables 
+",
+9,ATCO DB Solar GP Services Ltd.,ASGS,"5302 Forand St SW 
+5302 Forand St SW 
+Calgary, AB T3E8B4 
+ Phone: 780-446-7582 
+ Fax: xxx-xxx-xxxx 
+ Attn: Brent Stenson 
+","[{'agent_ID': 'APL', 'agent_name': 'ATCO Electric Ltd.'}]"
+10,ATCO Electric Ltd.,APL,"10035-105 Street 
+Edmonton, Alberta T5J 2V6 
+ Phone: 780-203-3917 
+ Fax: 780-420-3854 
+ Attn: Enrique Nino 
+",
+11,ATCO Energy Ltd.,AZLD,"ATCO Park East 02 
+5302 Forand St SW 
+ATCO Park East 02 
+Calgary, Alberta T3E 8B4 
+ Phone: 403-909-3948 
+ Fax: 000-000-0000 
+ Attn: Michelle Kulchyski 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+12,ATCO Energy Ltd.,AYLD,"ATCO Park East 02 
+5302 Forand St. SW 
+ATCO Park East 02 
+Calgary, AB T3E 8B4 
+ Phone: 403-909-3948 
+ Fax: xxx-xxx-xxxx 
+ Attn: Michelle Kulchyski 
+","[{'agent_ID': 'WSCL', 'agent_name': 'Wipro Solutions Canada Limited'}]"
+13,ATCO Renewables Ltd.,APTN,"5302 Forand Street SW 
+5302 Forand Street SW 
+Calgary, AB T3E 8B4 
+ Phone: 587-228-0888 
+ Fax: xxx-xxx-xxxx 
+ Attn: Krunal Shukla 
+","[{'agent_ID': 'APL', 'agent_name': 'ATCO Electric Ltd.'}]"
+14,Acciona Wind Energy Canada Inc.,ACWE,"55 E Monroe 
+Suite 1925 
+55 E Monroe 
+Chicago, IL 60603 
+ Phone: 312-673-3053 
+ Fax: 000-000-0000 
+ Attn: Lucas Loring 
+",
+15,Achernar GP Ltd.,AGPL,"5302 Forand St. SW, 
+4th Floor, West Building 
+5302 Forand St. SW, 
+Calgary, AB T3E 8B4 
+ Phone: 780-446-7582 
+ Fax: 000-000-0000 
+ Attn: Brent Stenson 
+",
+16,Active Energy Inc.,ABUS,"390 Brant Street 
+Suite 402 
+390 Brant Street 
+Burlington, Ontario L7R 4J4 
+ Phone: 905-467-1007 
+ Fax: 905-333-0982 
+ Attn: Michael Stedman 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+17,Advantage Energy Ltd.,ADOG,"Suite 2200 
+440 - 2nd Ave SW 
+Suite 2200 
+Calgary, AB T2P 5E9 
+ Phone: 403-718-8424 
+ Fax: 403-718-8332 
+ Attn: Dave Sterna 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+18,Air Liquide Canada Inc.,ALC,"1250, Rene Leveque Blvd. West 
+Suite 1700 
+Montreal, Quebec H3B 5E6 
+ Phone: 514-933-0955 
+ Fax: xxx-xxx-xxxx 
+ Attn: Laurent Rimano 
+",
+19,Air Liquide Canada Inc.,AILI,"1250, Boulevard Rene-Levesque 
+West 
+1250, Boulevard Rene-Levesque 
+Montreal, Quebec H3B 5E6 
+ Phone: 403-774-4227 
+ Fax: 403-441-4793 
+ Attn: Laurent Rimano 
+",
+20,Akamihk Energy Inc.,AKMK,"PO Box 70 
+PO Box 70 
+Maskwacis, AB T0C 1N0 
+ Phone: 403-539-5350 
+ Fax: 403-539-5366 
+ Attn: Balancing Pool 
+","[{'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}]"
+21,Alberta Cooperative Energy,ACE,"Box 501 
+Box 501 
+Thorhild, Alberta T0A 3J0 
+ Phone: 780-398-2115 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Ewashko 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+22,Alberta Culture and Tourism,ACTM,"8820 - 112 Street 
+8820 - 112 Street 
+Edmonton, AB T6G 2P8 
+ Phone: 780-438-8503 
+ Fax: 780-438-8503 
+ Attn: Matthew Wangler 
+",
+23,Alberta Municipal Services Corporation,AMSC,"300 8616 51 Avenue NW 
+300 8616 51 Avenue NW 
+Edmonton, AB T6E 6E6 
+ Phone: 780-643-5630 
+ Fax: xxx-xxx-xxxx 
+ Attn: Alvin Law 
+",
+24,Alberta Municipal Services Corporation,AMSO,"300 8616 51 Avenue NW 
+300 8616 51 Avenue NW 
+Edmonton, AB T6E 6E6 
+ Phone: 780-643-5630 
+ Fax: xxx-xxx-xxxx 
+ Attn: Alvin Law 
+",
+25,Alberta Newsprint Company,ANC,"Postal bag 9000 
+Postal bag 9000 
+Whitecourt, Alberta T7S 1P9 
+ Phone: 780-778-7055 
+ Fax: 000-000-0000 
+ Attn: Boyd Payne 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+26,Alberta Pacific Forest Industries Inc.,APF,"Box 8000 
+Hwy 63 North of Grassland 
+Box 8000 
+Boyle, Alberta T0A 0M0 
+ Phone: (780) 525-8345 
+ Fax: 780-525-8092 
+ Attn: Burck Hantel 
+",
+27,Alberta Power (2000) Ltd.,ALPT,"1800, 400 3rd Ave SW 
+1800, 400 3rd Ave SW 
+Calgary, AB T2P 4H2 
+ Phone: 587-943-1071 
+ Fax: xxx-xxx-xxxx 
+ Attn: Andrea Thiessen 
+","[{'agent_ID': 'TCGL', 'agent_name': 'TransAlta Cogeneration, L.P.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+28,Alberta Power (2000) Ltd.,ALPL,"1800, 400-3rd Ave SW 
+1800, 400-3rd Ave SW 
+Calgary, Alberta T2P 4H2 
+ Phone: 403-513-3715 
+ Fax: xxx-xxx-xxxx 
+ Attn: Andrea Thiessen 
+","[{'agent_ID': 'APC', 'agent_name': 'Heartland Generation Ltd.'}]"
+29,"Alberta Solar One, Inc.",ASOI,"425 1st St.  SW 
+Suite 200 
+425 1st St.  SW 
+Calgary, AB T2P 3L8 
+ Phone: 403-231-4824 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jacob Medrano 
+","[{'agent_ID': 'EPOS', 'agent_name': 'Enbridge Power Operations Services Inc.'}]"
+30,Algonquin Power Operating Trust,DRVP,"2845 Bristol Circle 
+2845 Bristol Circle 
+Oakville, Ontario L6H 7H7 
+ Phone: 905-465-7055 
+ Fax: xxx-xxx-xxxx 
+ Attn: Ryan Williamson 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+31,AltaGas Ltd.,AGS,"1700, 355 4th Avenue SW 
+Calgary, Alberta T2P 0J1 
+ Phone: (403) 269-5687 
+ Fax: (403) 508-7250 
+ Attn: Peter Karl 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}, {'agent_ID': 'IQP', 'agent_name': 'Campus Energy Partners LP'}]"
+32,AltaGas Ltd.,ALP,"1700, 355 4th Avenue S.W. 
+1700, 355 4th Avenue S.W. 
+Calgary, AB T2P 0J1 
+ Phone: (403) 269-5687 
+ Fax: (403) 508-7250 
+ Attn: Peter Karl 
+",
+33,"Ambit Energy Canada, ULC",AMBT,"1801 N. Lamar Street 
+Suite 600 
+1801 N. Lamar Street 
+Dallas, Texas 75202 
+ Phone: 214-875-9456 
+ Fax: xxx-xxx-xxxx 
+ Attn: Rick Bradley 
+",
+34,Aquatera Utilities Inc.,AQUI,"11101 - 104 Avenue 
+11101 - 104 Avenue 
+Grande Prairie, Alberta T8V 8H6 
+ Phone: 403-389-1226 
+ Fax: xxx-xxx-xxxx 
+ Attn: Micheal Dobovich 
+",
+35,BER Hand Hills wind LP,BRHH,"Suite 400 
+214 - 11 Avenue SW 
+Suite 400 
+Calgary, AB T2R 0K1 
+ Phone: 587-707-9635 
+ Fax: 000-000-0000 
+ Attn: Catalina Sanchez 
+","[{'agent_ID': 'SSLP', 'agent_name': 'Suffield Solar LP'}]"
+36,BER Wheatcrest Solar LP,WCLP,"214 - 11 Ave. SW 
+Suite 400 
+214 - 11 Ave. SW 
+Calgary, AB T2R 0K1 
+ Phone: 587-707-9635 
+ Fax: 000-000-0000 
+ Attn: Catalina Sanchez 
+",
+37,BHE Canada Rattlesnake L.P.,BCRL,"Suite 3020 
+Bow Valley Square 3 
+255 5 Avenue SW 
+Suite 3020 
+Calgary, AB T2P 3G6 
+ Phone: 403-818-0058 
+ Fax: 000-000-0000 
+ Attn: Sharmen Andrew 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+38,BP Canada Energy Group ULC,BPEG,"201 Helios Way 
+201 Helios Way 
+Houston, Texas 77079 
+ Phone: 832-619-5106 
+ Fax: xxx-xxx-xxxx 
+ Attn: Michelle Almazan 
+",
+39,BTG Power Corp.,HPGL,"Suite 300 
+808 - 1st Street SW 
+Suite 300 
+Calgary, AB T2P 1M9 
+ Phone: 403-826-9032 
+ Fax: 000-000-0000 
+ Attn: Steve Giacomin 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+40,Balancing Pool,BALP,"2350, 330 - 5th Ave. SW 
+Calgary, Alberta T2P 0L4 
+ Phone: 403-539-5352 
+ Fax: 403-539-5366 
+ Attn: Eagle Kwok 
+",
+41,Barlow Solar Park Ltd.,BSPL,"5302 Forand St SW, 
+5302 Forand St SW, 
+Calgary, AB T3E 8B4 
+ Phone: 780-446-7582 
+ Fax: 000-000-0000 
+ Attn: Brent Stenson 
+","[{'agent_ID': 'APL', 'agent_name': 'ATCO Electric Ltd.'}]"
+42,Battle River Cooperative REA Ltd.,BRE2,"PO Box 1420 
+PO Box 1420 
+Camrose, Alberta T4V 1X3 
+ Phone: 780-672-7738 
+ Fax: 780-672-7969 
+ Attn: Bill Klassen 
+",
+43,Battle River Cooperative REA Ltd.,BREA,"P O Box 1420 
+Camrose, Alberta T4V 1X3 
+ Phone: 780-672-7738 
+ Fax: 780-672-7969 
+ Attn: Bill Klassen 
+",
+44,Bonterra Energy Corp.,CRL,"901, 1015 4th Street SW 
+Calgary, Alberta T2R 1J4 
+ Phone: 403-750-2572 
+ Fax: 403-265-7488 
+ Attn: Brad Hetlinger 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}, {'agent_ID': 'ENCR', 'agent_name': 'CP Energy Marketing L.P.'}]"
+45,BowArk Energy Ltd.,BOWA,"3405 Devon Tower,400-3rd Av SW 
+3405 Devon Tower,400-3rd Av SW 
+Calgary, Alberta T2P 4H2 
+ Phone: 403-870-4931 
+ Fax: xxx-xxx-xxxx 
+ Attn: Shelley Sammartino 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+46,Brooks Solar Corporation,BSC,"Suite 2150 - 745 Thurlow Stree 
+Suite 2150 - 745 Thurlow Stree 
+Vancouver, British Columbia V6E 0C5 
+ Phone: 604-648-6611 
+ Fax: 000-000-0000 
+ Attn: Tania Ontiveros 
+","[{'agent_ID': 'TCI', 'agent_name': 'Telus Communications Inc.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+47,Brooks Solar II Limited Partnership,BRSO,"Suite 2150-745 Thurlow Street 
+Suite 2150-745 Thurlow Street 
+Vancouver, BC V6E 0C5 
+ Phone: 604-648-6611 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tania Ontiveros 
+","[{'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}, {'agent_ID': 'TCI', 'agent_name': 'Telus Communications Inc.'}, {'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}]"
+48,Buffalo Atlee 1 Wind LP,BFAW,"Suite 2930 
+155 Wellington Street West 
+Suite 2930 
+Toronto, ON M5V 3H1 
+ Phone: 905-744-9560 
+ Fax: 416-649-1335 
+ Attn: Chriz Angono 
+",
+49,Buffalo Atlee 2 Wind LP,BFAT,"Suite 2930 
+155 Wellington Street West 
+Suite 2930 
+Toronto, ON M5V 3H1 
+ Phone: 905-744-9560 
+ Fax: 416-649-1335 
+ Attn: Chriz Angono 
+",
+50,Buffalo Atlee 3 Wind LP,BUFW,"Suite 2930 
+155 Wellington Street West 
+Suite 2930 
+Toronto, ON M5V 3H1 
+ Phone: 905-744-9560 
+ Fax: 416-649-1335 
+ Attn: Chriz Angono 
+",
+51,Buffalo Atlee 4 Wind LP,BFAF,"Suite 2930 
+155 Wellington Street West 
+Suite 2930 
+Toronto, ON M5V 3H1 
+ Phone: 905-744-9560 
+ Fax: 416-649-1335 
+ Attn: Chriz Angono 
+",
+52,Bull Creek Wind Power Limited Partnership,BCWP,"400, 214 11th Ave SW 
+400, 214 11th Ave SW 
+Calgary, AB T2R 0K1 
+ Phone: 587-324-2744 
+ Fax: 403-800-3021 
+ Attn: Catalina Sanchez 
+","[{'agent_ID': 'BEAM', 'agent_name': 'BluEarth Asset Management Inc.'}, {'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}, {'agent_ID': 'SSLP', 'agent_name': 'Suffield Solar LP'}]"
+53,CNOOC Marketing Canada,CCMC,"Suite 2300, 500 Centre Str SE 
+Suite 2300, 500 Centre Str SE 
+Calgary, AB T2G 1A6 
+ Phone: 403-699-5086 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tammy Matvenko 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+54,CNOOC Petroleum North America ULC,NX3,"Suite 2300 
+500 Centre Street SE 
+Suite 2300 
+Calgary, Alberta T2G 1A6 
+ Phone: 403-699-5086 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tammy Matvenko 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+55,CNOOC Petroleum North America ULC,NXI,"Suite 2300 
+500 Centre Street SE 
+Suite 2300 
+Calgary, Alberta T2G 1A6 
+ Phone: (403) 699-5086 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tammy Matvenko 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}, {'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+56,CP Energy Marketing L.P.,EMC2,"EPCOR Tower 11th Floor 
+Capital Power L.P. Suite 1200 
+EPCOR Tower 11th Floor 
+Edmonton, AB T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+57,CP Energy Marketing L.P.,ENCR,"EPCOR Tower 10th Floor 
+1200 10423 ¿ 101 St. 
+EPCOR Tower 10th Floor 
+Edmonton, Alberta T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}, {'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+58,CWP Energy Inc.,CAWP,"407, Rue McGill Suite 315 
+407, Rue McGill Suite 315 
+Montreal, Quebec H2Y 2G3 
+ Phone: 514-871-2009 
+ Fax: 514-871-9316 
+ Attn: Pascal Massey 
+",
+59,Calgary District Heating Inc.,CDHI,"435 9 Ave SE 
+435 9 Ave SE 
+Calgary, AB T2G 2J6 
+ Phone: 602-365-0594 
+ Fax: 000-000-0000 
+ Attn: Frederick Redell 
+",
+60,Calgary Energy Centre No. 2 Inc.,CAEC,"PO Box 191 
+PO Box 191 
+Balzac, Alberta T0M 0E0 
+ Phone: 403-689-0263 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tamura Talbot 
+","[{'agent_ID': 'EEC', 'agent_name': 'ENMAX Energy Corporation'}]"
+61,Campus Energy Partners LP,CAMP,"2400, 411 1st St. SE 
+2400, 411 1st St. SE 
+Calgary, AB T2G 5E7 
+ Phone: 587-324-0318 
+ Fax: xxx-xxx-xxxx 
+ Attn: Austen Baines 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+62,Canadian Forest Products Ltd.,CFPL,"100-1700 W 75th Ave 
+100-1700 W 75th Ave 
+Vancouver, B.C V6P 6G2 
+ Phone: 780-539-0804 
+ Fax: 780-539-0822 
+ Attn: Randy Lemay 
+",
+63,"Canadian Hydro Developers, Inc.",CHDC,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 403-267-3688 
+ Fax: xxx-xxx-xxxx 
+ Attn: Pedro Lagos 
+","[{'agent_ID': 'VQW', 'agent_name': 'TransAlta Corporation'}]"
+64,Canadian Natural Resources Limited,ACRL,"2500 - 855 - 2 Street SW 
+2500 - 855 - 2 Street SW 
+Calgary, Alberta T2P 4J8 
+ Phone: 403-517-7197 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jamie Walker 
+","[{'agent_ID': 'APC', 'agent_name': 'Heartland Generation Ltd.'}]"
+65,Canadian Natural Resources Limited,CNRL,"2500, 855-2nd Street SW 
+Calgary, Alberta T2P 4J8 
+ Phone: (403) 517-7197 
+ Fax: (403) 517 -7366 
+ Attn: Jamie Walker 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+66,Canadian Natural Upgrading Limited,CNUL,"2100, 855 - 2nd St SW 
+2100, 855 - 2nd St SW 
+Calgary, Alberta T2P 4J8 
+ Phone: 403-517-7197 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jamie Walker 
+",
+67,Canamax Energy Ltd.,CNMX,"2500, 333 7th Avenue SW 
+2500, 333 7th Avenue SW 
+Calgary, AB T2P 2Z1 
+ Phone: 403-206-4675 
+ Fax: 587-369-5185 
+ Attn: Jeremy Krukowski 
+",
+68,Cancarb Ltd.,CCL,"1702 Brier Park Crescent NW 
+1702 Brier Park Crescent NW 
+Medicine Hat, Alberta T1C 1T8 
+ Phone: (403) 529-4304 
+ Fax: (403) 529-4304 
+ Attn: Jeff Maier 
+","[{'agent_ID': 'CMH', 'agent_name': 'City of Medicine Hat'}]"
+69,Capital Power (Alberta) Limited Partnership,EPDA,"EPCOR Tower 11th Floor 
+Capital Power L.P. Suite 1200 
+EPCOR Tower 11th Floor 
+Edmonton, Alberta T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+70,Capital Power (CBEC) L.P.,ECLP,"EPCOR Tower 11th Floor 
+Capital Power L.P. Suite 1200 
+EPCOR Tower 11th Floor 
+Edmonton, Alberta T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+71,Capital Power (Enchant Solar) LP,CPES,"1200 10423 101 Ave 
+1200 10423 101 Ave 
+Edmonton, AB T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+72,Capital Power (G3) Limited Partnership,EPDG,"EPCOR Tower 11th Floor 
+Capital Power L.P. Suite 1200 
+EPCOR Tower 11th Floor 
+Edmonton, Alberta T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+73,Capital Power (Genesee) L.P.,CPGS,"10th Floor ¿ EPCOR Tower 
+1200-10423 101 St. NW 
+10th Floor ¿ EPCOR Tower 
+Edmonton, AB T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+74,Capital Power (Ontario) Limited Partnership,CPOL,"1200-10423 101 Street NW 
+1200-10423 101 Street NW 
+Edmonton, AB T5H 0E9 
+ Phone: 780.392.5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+75,Capital Power (Whitla) L.P.,CPWL,"1200-10423 101 Street NW 
+1200-10423 101 Street NW 
+Edmonton, Alberta T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+76,Capital Power GP Holdings Inc.,EML3,"EPCOR Tower 11th Floor 
+Capital Power L.P. Suite 1200 
+EPCOR Tower 11th Floor 
+Edmonton, AB T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'ENCR', 'agent_name': 'CP Energy Marketing L.P.'}]"
+77,Capital Power GP Holdings Inc.,E4SA,"EPCOR Tower 11th Floor 
+Capital Power L.P. Suite 1200 
+EPCOR Tower 11th Floor 
+Edmonton, AB T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'ENCR', 'agent_name': 'CP Energy Marketing L.P.'}]"
+78,Cardston Spring Coulee Solar Limited Partnership,CSCL,"41 Victoria 
+41 Victoria 
+Gatineau, QC J8X 2A1 
+ Phone: 819-360-8163 
+ Fax: 000-000-0000 
+ Attn: Julien Wu 
+",
+79,Cargill Limited,CRGL,"300-240 Graham Avenue 
+Box 5900 
+Winnipeg, Manitoba R3C 4C5 
+ Phone: 204-947-6297 
+ Fax: 204-404-8521 
+ Attn: Corporate Secretary 
+","[{'agent_ID': 'CAMP', 'agent_name': 'Campus Energy Partners LP'}, {'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+80,Cascade Power Project Limited Partnership,CSDP,"Suite 1410 
+715 - 5 Avenue SW 
+Suite 1410 
+Calgary, AB T2P 2X6 
+ Phone: 403-689-6261 
+ Fax: 000-000-0000 
+ Attn: Raymond McKay 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+81,Castle Rock Ridge LP,CRR,"Suite 300 
+100 Brickstone Square 
+Suite 300 
+Andover, MA 01810 
+ Phone: 978-773-0725 
+ Fax: xxx-xxx-xxxx 
+ Attn: Edwin Cambero 
+",
+82,Celanese Canada ULC,CSCU,"PO Box 428 
+PO Box 428 
+Edmonton, AB T5J 2K1 
+ Phone: 780-468-0851 
+ Fax: xxx-xxx-xxxx 
+ Attn: Pavandeep Dhuga 
+","[{'agent_ID': 'INSI', 'agent_name': 'Insitu Power Corporation'}]"
+83,Cenovus Energy Inc.,ENC2,"225  6 Avenue SW 
+PO Box 766 
+225  6 Avenue SW 
+Calgary, Alberta T2P 0M5 
+ Phone: 780-573-7239 
+ Fax: 000-000-0000 
+ Attn: Gary Henault 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+84,Cenovus Energy Inc.,CEIB,"500 Centre St SE. 
+500 Centre St SE. 
+Calgary, Alberta T2P1C4 
+ Phone: 403-766-3955 
+ Fax: 000-000-0000 
+ Attn: Grant Pellegrin 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+85,Cenovus Energy Inc.,RENA,"225 6 Ave SW 
+PO Box 766 
+225 6 Ave SW 
+Calgary, Alberta T2P 0M5 
+ Phone: 403-298-6431 
+ Fax: 000-000-0000 
+ Attn: Derek Skeet 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+86,Cenovus Energy Inc.,CEN2,"225  6 Avenue SW 
+PO Box 766 
+225  6 Avenue SW 
+Calgary, AB T2P 0M5 
+ Phone: 780-559-8409 
+ Fax: xxx-xxx-xxxx 
+ Attn: Joel Arthurs 
+",
+87,Chappice Lake Limited Partnership,CLLP,"Suite 2150 
+745 Thurlow Street 
+Suite 2150 
+Vancouver, BC V6E 0C5 
+ Phone: 604-648-6611 
+ Fax: 000-000-0000 
+ Attn: Tania Ontiveros 
+","[{'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}, {'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}]"
+88,City of Lethbridge,LTH,"City Hall, 
+910 - 4th Avenue South 
+City Hall, 
+Lethbridge, Alberta T1J 0P6 
+ Phone: (403) 320-3168 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jason Drenth 
+",
+89,City of Medicine Hat,CMH,"2172 Briar Park Place NW 
+Medicine Hat, Alberta T1C 1S6 
+ Phone: 403-525-8601 
+ Fax: 403-529-8304 
+ Attn: Travis Tuchscherer 
+",
+90,Claresholm Solar LP,CLRS,"155 Wellington St. West 
+Suite 2930 
+155 Wellington St. West 
+Toronto, ON M5V 3H1 
+ Phone: 416-649-5003 
+ Fax: 416-649-1335 
+ Attn: Andrea Kausel 
+","[{'agent_ID': 'ERPS', 'agent_name': 'Whitecourt Power Ltd.'}]"
+91,Coalspur Mines (Operations) Ltd.,CMOL,"110 MacLeod Ave 
+110 MacLeod Ave 
+Hinton, AB T1V 2A9 
+ Phone: 780-740-2465 
+ Fax: 780-865-3316 
+ Attn: Natashia Harland 
+",
+92,Concord Coaldale Partnership,CDCP,"9th Floor 
+1095 West Pender Street 
+9th Floor 
+Vancouver, BC V6E 2M6 
+ Phone: 604-681-8882 
+ Fax: xxx-xxx-xxxx 
+ Attn: Cleris Lai 
+","[{'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}, {'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}]"
+93,Concord Drumheller Partnership,DRUM,"9th Floor, 1095 West Pender St 
+9th Floor, 1095 West Pender St 
+Vancouver, BC V6E 2M6 
+ Phone: 604-681-8882 
+ Fax: xxx-xxx-xxxx 
+ Attn: Calvin Chan 
+","[{'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}, {'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}]"
+94,Concord Monarch Partnership,CDMP,"9th Floor 
+1095 West Pender Street 
+9th Floor 
+Vancouver, BC V6E 2M6 
+ Phone: 604-681-8882 
+ Fax: xxx-xxx-xxxx 
+ Attn: Calvin Chan 
+","[{'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}, {'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}]"
+95,Concord Stavely Partnership,COSP,"9th floor, 1095 West Pender St 
+9th floor, 1095 West Pender St 
+Vancouver, BC V6E 2M6 
+ Phone: 604-681-8882 
+ Fax: xxx-xxx-xxxx 
+ Attn: Calvin Chan 
+","[{'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}, {'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}]"
+96,Concord Vulcan Partnership,CDVP,"9th floor, 1095 West Pender St 
+9th floor, 1095 West Pender St 
+Vancouver, BC V6E 2M6 
+ Phone: 604-681-8882 
+ Fax: xxx-xxx-xxxx 
+ Attn: Calvin Chan 
+","[{'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}, {'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}]"
+97,ConocoPhillips Surmont Partnership,CONP,"401 - 9th Ave SW 
+401 - 9th Ave SW 
+Calgary, AB T2P 2H7 
+ Phone: 403-532-3649 
+ Fax: 000-000-0000 
+ Attn: Jason Mraz 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+98,Conrad Solar Inc.,CNSI,"353 North Clark Street, 30th F 
+353 North Clark Street, 30th F 
+Chicago, Illinois 60654 
+ Phone: 512-228-6161 
+ Fax: xxx-xxx-xxxx 
+ Attn: Steven Moss 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+99,"Constellation Energy Generation, LLC",CONS,"1310 Point Street 
+1310 Point Street 
+Baltimore, MD 21231 
+ Phone: 667-313-5599 
+ Fax: xxx-xxx-xxxx 
+ Attn: Renard Corbet 
+",
+100,Cypress 2 Renewable Energy Centre Limited Partnership,CYLP,"1010 de la Gauchetiere W, 
+Suite 2000 
+1010 de la Gauchetiere W, 
+Montreal, QC H3B 2N2 
+ Phone: 438-822-3237 
+ Fax: 000-000-0000 
+ Attn: Lilianne Rheault 
+","[{'agent_ID': 'CRLP', 'agent_name': 'Cypress Renewable Energy Centre Limited Partnership'}]"
+101,Cypress Renewable Energy Centre Limited Partnership,CRLP,"1010 de la Gauchetiere W, 
+Suite 2000 
+1010 de la Gauchetiere W, 
+Montreal, QC H3B 2N2 
+ Phone: 438-822-3237 
+ Fax: 000-000-0000 
+ Attn: Lilianne Rheault 
+",
+102,DAPP Power L.P.,DAPP,"RR#1, Site 4, Box 6 
+RR#1, Site 4, Box 6 
+Westlock, Alberta T7P 2N9 
+ Phone: 780-954-2393 
+ Fax: 780-954-2091 
+ Attn: Dominick Zimmerman 
+",
+103,Direct Energy Marketing Limited,DREM,"2500, 530 8 Avenue SW 
+Suite 1200 
+2500, 530 8 Avenue SW 
+Calgary, Alberta T2P 3G8 
+ Phone: 403-776-2154 
+ Fax: xxx-xxx-xxxx 
+ Attn: Nicole Black 
+",
+104,Direct Energy Marketing Limited,DEMI,"2500, 530 8 Avenue SW 
+Suite 1200 
+2500, 530 8 Avenue SW 
+Calgary, AB T2P 3G8 
+ Phone: 403-689-8303 
+ Fax: 000-000-0000 
+ Attn: Tom Lungu 
+","[{'agent_ID': 'DREM', 'agent_name': 'Direct Energy Marketing Limited'}]"
+105,Direct Energy Partnership,DEP4,"2500, 530-8th Ave. SW 
+2500, 530-8th Ave. SW 
+Calgary, AB T2P 3S8 
+ Phone: 403-689-8303 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tom Lungu 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}, {'agent_ID': 'ESGL', 'agent_name': 'Energy Services Group, LLC'}]"
+106,Direct Energy Partnership,DEP3,"2500, 530 - 8th Avenue SW 
+2500, 530 - 8th Avenue SW 
+Calgary, AB T2P 3G8 
+ Phone: 403-776-2154 
+ Fax: xxx-xxx-xxxx 
+ Attn: Nicole Black 
+",
+107,Direct Energy Partnership,DEP2,"2500, 530-8th Ave. SW 
+2500, 530-8th Ave. SW 
+Calgary, AB T2P 3S8 
+ Phone: 403-689-8303 
+ Fax: 000-000-0000 
+ Attn: Tom Lungu 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}, {'agent_ID': 'DEMI', 'agent_name': 'Direct Energy Marketing Limited'}, {'agent_ID': 'DREM', 'agent_name': 'Direct Energy Marketing Limited'}]"
+108,Direct Energy Partnership,DREP,"2500, 530 8 Avenue SW 
+Suite 1200 
+2500, 530 8 Avenue SW 
+Calgary, AB T2P 3G8 
+ Phone: 403-689-8303 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tom Lungu 
+","[{'agent_ID': 'DREM', 'agent_name': 'Direct Energy Marketing Limited'}]"
+109,Dow Chemical Canada ULC,DOW,"Suite 2400, 215 2nd Street SW 
+Suite 2400, 215 2nd Street SW 
+Calgary, Alberta T2P 1M4 
+ Phone: 403-267-3523 
+ Fax: 403-267-3597 
+ Attn: Sheldon Young 
+",
+110,Duffield Rural Electrification Association Limited,DRE2,"RR#1 
+RR#1 
+Duffield, Alberta T0E 0N0 
+ Phone: (780) 554 2380 
+ Fax: (780) 921-2486 
+ Attn: Albert Wagner 
+","[{'agent_ID': 'RESL', 'agent_name': 'Rural Electric Services Limited'}]"
+111,Duffield Rural Electrification Association Ltd.,DRE3,"Box 27, Site 1, RR1 
+Box 27, Site 1, RR1 
+Duffield, Alberta T0E0N0 
+ Phone: 780-554-2380 
+ Fax: 000-000-0000 
+ Attn: Albert Wagner 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+112,Dynasty Power Inc.,DYNS,"411 8th Ave SW 
+Suite 400 
+411 8th Ave SW 
+Calgary, AB T2P 1E3 
+ Phone: 587-917-1267 
+ Fax: 587-3177443 
+ Attn: Yan Petchatnikov 
+",
+113,EDF Renewables Development Inc.,BSRW,"1010 De La Gauchetiere West 
+20th Floor Suite 2000 
+1010 De La Gauchetiere West 
+Montreal, Quebec H3B 2N2 
+ Phone: 514-447-1935 
+ Fax: xxx-xxx-xxxx 
+ Attn: Roxanne Roy 
+",
+114,"EDF Trading North America, LLC",EGLE,"4700 W Sam Houston Pkwy N. 
+#250 
+4700 W Sam Houston Pkwy N. 
+Houston, Texas 77041 
+ Phone: 281-653-1697 
+ Fax: xxx-xxx-xxxx 
+ Attn: Alan Padgett 
+",
+115,EDP RENEWABLES SH PROJECT LIMITED PARTNERSHIP,ERSP,"1501 McKinney St 
+Suite 1300 
+1501 McKinney St 
+Houston, TX 77010 
+ Phone: 713-805-8199 
+ Fax: xxx-xxx-xxxx 
+ Attn: Diana Sanchez 
+",
+116,ENMAX Balzac LP,ENBL,"141 - 50th Avenue SE 
+141 - 50th Avenue SE 
+Calgary, AB T2G 4S7 
+ Phone: 403-514-2922 
+ Fax: 403-514-2922 
+ Attn: Jay Dyson 
+",
+117,ENMAX Cavalier LP,ENCV,"141 - 50th Avenue SE 
+141 - 50th Avenue SE 
+Calgary, AB T2G 4S7 
+ Phone: 403-514-2922 
+ Fax: 403-514-2922 
+ Attn: Jay Dyson 
+","[{'agent_ID': 'EEC', 'agent_name': 'ENMAX Energy Corporation'}]"
+118,ENMAX Energy Corporation,VPC2,"141-50th Avenue SE 
+141-50th Avenue SE 
+Calgary, AB T2G 4S7 
+ Phone: 403-689-7192 
+ Fax: 403-514-1718 
+ Attn: Samantha Ritchie 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+119,ENMAX Energy Corporation,EEC2,"ENMAX Place 
+141 - 50th Ave. SE 
+ENMAX Place 
+Calgary, Alberta T2G 4S7 
+ Phone: 403-689-7192 
+ Fax: 403-514-1718 
+ Attn: Samantha Ritchie 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+120,ENMAX Energy Corporation,EEC7,"141 50 Avenue SE 
+141 50 Avenue SE 
+Calgary, Alberta T2G 4S7 
+ Phone: 403-385-6369 
+ Fax: xxx-xxx-xxxx 
+ Attn: Helen McKinlay 
+",
+121,ENMAX Energy Corporation,E12,"141 50th Ave SE 
+141 50th Ave SE 
+Calgary, Alberta T2G 4S7 
+ Phone: 403-689-5706 
+ Fax: xxx-xxx-xxxx 
+ Attn: Chad McInenly 
+","[{'agent_ID': 'VQW', 'agent_name': 'TransAlta Corporation'}]"
+122,ENMAX Energy Corporation,EEC,"ENMAX Place 
+141 - 50th Avenue S.E. 
+ENMAX Place 
+Calgary, AB T2G 4S7 
+ Phone: 403-689-5706 
+ Fax: xxx-xxx-xxxx 
+ Attn: Chad McInenly 
+",
+123,ENMAX Energy Marketing Inc.,EEMI,"ENMAX Place 
+141 - 50th Avenue S.E. 
+ENMAX Place 
+Calgary, Alberta T2G 4S7 
+ Phone: 403-689-6330 
+ Fax: xxx-xxx-xxxx 
+ Attn: Christopher Joy 
+","[{'agent_ID': 'EEC', 'agent_name': 'ENMAX Energy Corporation'}]"
+124,ENMAX Generation Portfolio Inc.,EGPI,"ENMAX Place 
+141 - 50th Avenue S.E. 
+ENMAX Place 
+Calgary, AB T2G 4S7 
+ Phone: 403-689-6330 
+ Fax: xxx-xxx-xxxx 
+ Attn: Christopher Joy 
+","[{'agent_ID': 'CAEC', 'agent_name': 'Calgary Energy Centre No. 2 Inc.'}, {'agent_ID': 'EEC', 'agent_name': 'ENMAX Energy Corporation'}]"
+125,ENMAX Kettles Hill Inc.,KHW,"141 - 50 Avenue SE 
+141 - 50 Avenue SE 
+Calgary, AB T2G 4S7 
+ Phone: 403-689-6330 
+ Fax: xxx-xxx-xxxx 
+ Attn: Christopher Joy 
+","[{'agent_ID': 'EEC', 'agent_name': 'ENMAX Energy Corporation'}]"
+126,EPCOR Energy Alberta GP Inc.,EESA,"23rd Floor 
+EPCOR Tower 
+2000-10423 101 Street NW 
+23rd Floor 
+Edmonton, Alberta T5H 0E8 
+ Phone: 780-412-3689 
+ Fax: xxx-xxx-xxxx 
+ Attn: Naomi Broni 
+",
+127,EPCOR Energy Alberta GP Inc. (Default Supply),E3SA,"23rd Floor 
+EPCOR Tower 
+2000 - 10423, 101 Street NW 
+23rd Floor 
+Edmonton, AB T5H 0E8 
+ Phone: 780-412-3689 
+ Fax: xxx-xxx-xxxx 
+ Attn: Naomi Broni 
+",
+128,EPCOR Energy Alberta GP Inc. (RR),EERR,"23rd Floor 
+EPCOR Tower 
+2000-10423 101 Street NW 
+23rd Floor 
+Edmonton, Alberta T5H 0E8 
+ Phone: 780-412-3689 
+ Fax: xxx-xxx-xxxx 
+ Attn: Naomi Broni 
+",
+129,EPCOR Water Services Inc.,EWSI,"3900 EL Smith Road NW 
+3900 EL Smith Road NW 
+Edmonton, AB T6M0L3 
+ Phone: 780-412-7698 
+ Fax: 000-000-0000 
+ Attn: Qing James Zhang 
+",
+130,EQUS REA Ltd.,CREA,"5803- 42 Street 
+Box 6199 
+Innisfail, Alberta T4G 1S8 
+ Phone: (403)227-4011 
+ Fax: (403)227-1007 
+ Attn: Pat Bourne 
+","[{'agent_ID': 'PAPL', 'agent_name': 'Prairie Power Ltd.'}]"
+131,ERCO Worldwide LP,STP,"302 The East Mall, 
+Suite 200 
+Toronto, Ontario M9B 6C7 
+ Phone: 780-539-2252 
+ Fax: xxx-xxx-xxxx 
+ Attn: Ralph Hanson 
+",
+132,EarthRenew Strathmore Inc.,ONIC,"PO Box 1186 
+PO Box 1186 
+Okotoks, AB T1S 1B2 
+ Phone: 587-890-9426 
+ Fax: xxx-xxx-xxxx 
+ Attn: Gerard Philpott 
+",
+133,East Strathmore Solar Project Inc.,ESSP,"Suite 2150 
+745 Thurlow Street 
+Suite 2150 
+Vancouver, BC V6E0C5 
+ Phone: 604-648-6611 
+ Fax: 000-000-0000 
+ Attn: Tania Ontiveros 
+","[{'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}, {'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}]"
+134,Ekkobe Inc.,EKKO,"2300 - 520 5th Ave SW 
+2300 - 520 5th Ave SW 
+Calgary, AB T2P 3R7 
+ Phone: 403-669-1865 
+ Fax: xxx-xxx-xxxx 
+ Attn: Ernie Robert 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+135,Enbridge Pipelines (Athabasca) Inc.,EPAI,"Suite 200 
+425 1st St. SW 
+Suite 200 
+Calgary, AB T2P 3L8 
+ Phone: 780-420-5125 
+ Fax: xxx-xxx-xxxx 
+ Attn: Peter Chan 
+","[{'agent_ID': 'EBI', 'agent_name': 'Enbridge Pipelines Inc.'}]"
+136,Enbridge Pipelines (Woodland) Inc.,EPWI,"425 1st Street SW 
+Suite 200 
+425 1st Street SW 
+Calgary, AB T2P 3L8 
+ Phone: 780-420-5125 
+ Fax: xxx-xxx-xxxx 
+ Attn: Peter Chan 
+","[{'agent_ID': 'EBI', 'agent_name': 'Enbridge Pipelines Inc.'}]"
+137,Enbridge Pipelines Inc.,EBI,"3000, 425 - 1st Street SW 
+Calgary, Alberta T2P 3L8 
+ Phone: 403-767-3890 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jessica Farrell 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+138,Enel X Canada Ltd.,ENOR,"Suite 300 
+101 Seaport Blvd 
+Suite 300 
+Boston, MA 02210 
+ Phone: 978-857-5978 
+ Fax: xxx-xxx-xxxx 
+ Attn: Maria Lappas 
+",
+139,Enfinite Corporation,WPHL,"Suite 1320 
+150 - 9 Avenue SW 
+Suite 1320 
+Calgary, AB T2P 3H9 
+ Phone: 403-464-4235 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jason White 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+140,Enfinite Generation Corporation,GENP,"Suite 1320, 150 9 Ave SW 
+Suite 1320, 150 9 Ave SW 
+Calgary, Alberta T2P 3H9 
+ Phone: 403-464-4235 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jason White 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+141,Enmax Energy Corporation,EEC9,"141 50 Avenue SE 
+141 50 Avenue SE 
+Calgary, Alberta T2G 4S7 
+ Phone: 403-385-6369 
+ Fax: xxx-xxx-xxxx 
+ Attn: Helen McKinlay 
+",
+142,Enmax Energy Corporation,E11,"141 50 Avenue SE 
+141 50 Avenue SE 
+Calgary, AB T2G 4S7 
+ Phone: 403-385-6369 
+ Fax: xxx-xxx-xxxx 
+ Attn: Helen McKinlay 
+",
+143,Enmax Energy Corporation,E10,"141 50 Avenue SE 
+141 50 Avenue SE 
+Calgary, Alberta T2G 4S7 
+ Phone: 403-385-6369 
+ Fax: xxx-xxx-xxxx 
+ Attn: Helen McKinlay 
+",
+144,Enmax Shepard Services Inc.,EGCP,"141 - 50th Ave SE 
+141 - 50th Ave SE 
+Calgary, AB T2G 4S7 
+ Phone: 403-736-5603 
+ Fax: xxx-xxx-xxxx 
+ Attn: Vernon Hansen 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+145,Erling Olsen,ERL,"Box 23 
+Box 23 
+Warner, Alberta T0K 2L0 
+ Phone: 403-642-2143 
+ Fax: 403-642-3849 
+ Attn: Erling Olsen 
+",
+146,Ermineskin REA Ltd.,EREA,"PO Box 1920 
+Highway 2A South 
+PO Box 1920 
+Hobbema, Alberta T0C 1N0 
+ Phone: (780) 585-4006 
+ Fax: (780) 585-2006 
+ Attn: Trevor Saulteaux 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+147,Evolugen Trading and Marketing LP,ETML,"41 Victoria Street 
+41 Victoria Street 
+Gatineau, QC J8X 2A1 
+ Phone: 343-997-2721 
+ Fax: xxx-xxx-xxxx 
+ Attn: Audrey Beauregard 
+",
+148,Express Pipeline Limited Partnership,EPLP,"2700 300 5th Avenue SW 
+2700 300 5th Avenue SW 
+Calgary, Alberta T2P 3C4 
+ Phone: 403-767-4684 
+ Fax: NA 
+ Attn: Matthew Cloutier 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+149,Fengate Central Utilities Block GP Inc.,FCUB,"2275 Upper Middle Road E 
+Suite 700 
+2275 Upper Middle Road E 
+Oakville, ON L6H 0C3 
+ Phone: 604-353-0740 
+ Fax: 905-491-6598 
+ Attn: Alex Brosseau 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+150,Foothills Pipe Lines (Alta.) Ltd.,FPL,"P.O. Box 1000, Station M 
+P.O. Box 1000, Station M 
+Calgary, Alberta T2P 4K5 
+ Phone: 403-920-7960 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jae Kim 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+151,Fort Hills Energy Corporation,FHEC,"PO Box 2844 150-6th Ave SW 
+PO Box 2844 150-6th Ave SW 
+Calgary, Alberta T2P 3E3 
+ Phone: 403-296-4631 
+ Fax: xxx-xxx-xxxx 
+ Attn: Steve Waddell 
+","[{'agent_ID': 'SEMI', 'agent_name': 'Suncor Energy Marketing Inc'}]"
+152,FortisAlberta Inc.,UNCA,"320 - 17th Avenue S.W. 
+Calgary, AB T2S 2V1 
+ Phone: (403)514-4229 
+ Fax: (403)514-5229 
+ Attn: Miles Stroh 
+",
+153,Forty Mile Granlea Wind GP Inc.,FMGW,"150 - 6th Avenue SW 
+150 - 6th Avenue SW 
+Calgary, AB T2P 3E3 
+ Phone: 780-446-7582 
+ Fax: xxx-xxx-xxxx 
+ Attn: Brent Stenson 
+","[{'agent_ID': 'APL', 'agent_name': 'ATCO Electric Ltd.'}]"
+154,Future Fuel Ltd.,FFL,"Suite 100 
+101 Riel Drive 
+Suite 100 
+St Albert, Alberta T8N 3X4 
+ Phone: 780-453-8655 
+ Fax: 780-479-8469 
+ Attn: Brian Nilsson 
+","[{'agent_ID': 'SNRL', 'agent_name': 'Signalta Resources Limited'}]"
+155,Garden Plain I LP,GPLP,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 587-315-1089 
+ Fax: 000-000-0000 
+ Attn: Drew Broadfoot 
+","[{'agent_ID': 'VQW', 'agent_name': 'TransAlta Corporation'}]"
+156,Gas Alberta Energy (JV),GAE,"Suite 205 
+120 Country Hills Landing NW 
+Suite 205 
+Calgary, Alberta T3K 5P3 
+ Phone: 780-938-2736 
+ Fax: 403-509-2611 
+ Attn: Bre Martiniuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+157,Gas Alberta Energy (JV),GAEO,"Suite 350, 
+2618 Hopewell Place NE 
+Suite 350, 
+Calgary, AB T1Y 7J7 
+ Phone: 780-938-2736 
+ Fax: 403-509-2611 
+ Attn: Bre Martiniuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+158,Gas Alberta Energy (JV),GAET,"Suite 350 
+2618 Hopewell Place NE 
+Suite 350 
+Calgary, AB T1Y 7J7 
+ Phone: 780-938-2736 
+ Fax: 403-509-2611 
+ Attn: Bre Martiniuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+159,General Land & Power Corp.,GLPC,"6713 Fairmount Drive SE 
+6713 Fairmount Drive SE 
+Calgary, AB T2H 0X6 
+ Phone: 403-921-8246 
+ Fax: 000-000-0000 
+ Attn: Mark Owerko 
+",
+160,"Ghost Pine Windfarm, LP",GPWF,"Company Code 8409 
+700 Universe Boulevard FEJ/JB 
+Company Code 8409 
+Juno Beach, Florida 33408 
+ Phone: 561-694-4908 
+ Fax: 000-000-0000 
+ Attn: Alyson Lamb 
+","[{'agent_ID': 'NEPM', 'agent_name': 'NextEra Energy Marketing, LLC'}]"
+161,Government of Alberta - ESRD - OI,GOAE,"3rd Floor 
+Deerfoot Square 
+2938 - 11th St. NE 
+3rd Floor 
+Calgary, Alberta T2E 7L7 
+ Phone: 403-297-6517 
+ Fax: 403-297-6389 
+ Attn: Dave Ardell 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+162,Grande Prairie Generation Inc.,GPI,"1310 Point Street 
+1310 Point Street 
+Baltimore, MD 21231 
+ Phone: 667-313-5599 
+ Fax: xxx-xxx-xxxx 
+ Attn: Renard (Tunu) Corbet 
+","[{'agent_ID': 'CONS', 'agent_name': 'Constellation Energy Generation, LLC'}]"
+163,Grow the Energy Circle Ltd.,GTEC,"Box 210 
+Box 210 
+Coaldale, Alberta T1M1M3 
+ Phone: 403-345-3844 
+ Fax: 403-345-3844 
+ Attn: Chris Perry 
+",
+164,Halkirk I Wind Project LP,HWP,"EPCOR Tower 11th Floor 
+Capital Power L.P. Suite 1200 
+EPCOR Tower 11th Floor 
+Edmonton, AB T5H 0E9 
+ Phone: 780.392.5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+165,Hays Solar LP,HSLP,"Suite 400 
+214 - 11 Ave SW 
+Suite 400 
+Calgary, AB T2R 0K1 
+ Phone: 587-707-9635 
+ Fax: 000-000-0000 
+ Attn: Catalina Sanchez 
+","[{'agent_ID': 'SSLP', 'agent_name': 'Suffield Solar LP'}]"
+166,Heartland Generation Ltd.,APNC,"1800, 400-3rd Ave SW 
+1800, 400-3rd Ave SW 
+Calgary, Alberta T2P 4H2 
+ Phone: 403-690-6912 
+ Fax: xxx-xxx-xxxx 
+ Attn: Andrea Thiessen 
+",
+167,Heartland Generation Ltd.,APSU,"P.O. Bag 23 
+P.O. Bag 23 
+Fort Saskatchewan, AB T8L 3T2 
+ Phone: 780-992-3878 
+ Fax: xxx-xxx-xxxx 
+ Attn: Dave Guinan 
+",
+168,Heartland Generation Ltd.,PPHL,"1800, 400-3rd Ave SW 
+1800, 400-3rd Ave SW 
+Calgary, AB T2P 4H2 
+ Phone: 403-690-6912 
+ Fax: 403-209-6915 
+ Attn: Andrea Thiessen 
+",
+169,Heartland Generation Ltd.,ATRB,"1800, 400-3rd Ave SW 
+1800, 400-3rd Ave SW 
+Calgary, AB T2P 4H2 
+ Phone: 403-690-6912 
+ Fax: xxx-xxx-xxxx 
+ Attn: Andrea Thiessen 
+",
+170,Heartland Generation Ltd.,APC,"1800, 400-3rd Ave SW 
+1800, 400-3rd Ave SW 
+Calgary, AB T2P 4H2 
+ Phone: 403-690-6912 
+ Fax: 403-209-6915 
+ Attn: Andrea Thiessen 
+",
+171,Heartland Generation Ltd.,CUPC,"1800, 400-3rd Ave SW 
+1800, 400-3rd Ave SW 
+Calgary, Alberta T2P 4H2 
+ Phone: 403-690-6912 
+ Fax: xxx-xxx-xxxx 
+ Attn: Andrea Thiessen 
+",
+172,Hilda Wind L.P.,HLDW,"400 3rd Avenue SW 
+Suite 3700 
+400 3rd Avenue SW 
+Calgary, AB T2P 4H2 
+ Phone: +44 7554 196228 
+ Fax: 000-000-0000 
+ Attn: Oliver Alexander 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+173,Ho & Ann Enterprises Inc. O/A Central Suite Hotel,HAAE,"4820 - 50th Ave 
+4820 - 50th Ave 
+Lloydminster, AB T9V 0W5 
+ Phone: 780-875-8989 
+ Fax: 780-875-8602 
+ Attn: Nalie Kim 
+","[{'agent_ID': 'STRA', 'agent_name': 'Strama Consulting Ltd.'}]"
+174,Hudson Energy Canada Corp.,HECC,"5251 Westheimer Road 
+Suite 1000 
+5251 Westheimer Road 
+Houston, TX 77056 
+ Phone: 905-670-6829 
+ Fax: xxx-xxx-xxxx 
+ Attn: Cynthia Nguyen 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+175,Hut 8 Holdings Inc.,HUHI,"Suite 500, 24 Duncan St 
+Suite 500, 24 Duncan St 
+Toronto, ON M5V 2B8 
+ Phone: 647-296-3167 
+ Fax: xxx-xxx-xxxx 
+ Attn: Arnold Lee 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+176,Imperial Oil,ESST,"505 Quarry Park Blvd SE 
+505 Quarry Park Blvd SE 
+Calgary, AB T2C 5N1 
+ Phone: 587-962-1402 
+ Fax: xxx-xxx-xxxx 
+ Attn: Cameron Webster 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+177,Imperial Oil Limited,ESSL,"505 Quarry Park Blvd SE 
+505 Quarry Park Blvd SE 
+Calgary, Alberta T2C 5N1 
+ Phone: 587-962-1402 
+ Fax: xxx-xxx-xxxx 
+ Attn: Cameron Webster 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+178,Imperial Oil Limited,ESSO,"505 Quarry Park Blvd, SE 
+505 Quarry Park Blvd, SE 
+Calgary, Alberta T2C 5N1 
+ Phone: 587-962-1402 
+ Fax: xxx-xxx-xxxx 
+ Attn: Cameron Webster 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+179,Innisfail Solar Limited Partnership,INFC,"Suite 2150 - 745 Thurlow St 
+Suite 2150 - 745 Thurlow St 
+Vancouver, BC V6E 0C5 
+ Phone: 604-648-6611 
+ Fax: 604-648-6606 
+ Attn: Tania Ontiveros 
+","[{'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}, {'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}]"
+180,Inter Pipeline (Corridor) Inc.,CPL,"Suite 2600, 237-4th Avenue SW 
+Suite 2600, 237-4th Avenue SW 
+Calgary, AB T2P 4K3 
+ Phone: 403-218-9589 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jacqueline Djakaria 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+181,International Paper Canada Pulp Holdings ULC,INPR,"PO Bag 3000 
+PO Bag 3000 
+Grande Prairie, AB T8V 3A9 
+ Phone: 780-539-8336 
+ Fax: 780-539-8336 
+ Attn: Aaron Brown 
+",
+182,Irrigation Canal Power Co-op Ltd.,ICPL,"525 40 Street South 
+Lethbridge, Alberta T1J 4M1 
+ Phone: (403)328-4401 
+ Fax: (403)328-4460 
+ Attn: Trevor Helwig 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+183,Jenner 1 Limited Partnership,JALP,"200 Wellington Street West 
+Suite 1102 
+200 Wellington Street West 
+Toronto, ON M5V 3C7 
+ Phone: 647-236-6936 
+ Fax: xxx-xxx-xxxx 
+ Attn: Hemanth Shankar 
+",
+184,Jenner 2 Limited Partnership,JBLP,"Suite 1102 
+200 Wellington Street West 
+Suite 1102 
+Toronto, ON M5V 3C7 
+ Phone: 647-236-6936 
+ Fax: xxx-xxx-xxxx 
+ Attn: Hemanth Shankar 
+",
+185,Jenner 3 Limited Partnership,JCLP,"Suite 1102 
+200 Wellington Street West 
+Suite 1102 
+Toronto, ON M5V 3C7 
+ Phone: 647-236-6936 
+ Fax: 000-000-0000 
+ Attn: Hemanth Shankar 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+186,Jenner Solar LP,JSLP,"Suite 400 
+214 - 11 Ave SW 
+Suite 400 
+Calgary, Alberta T2R 0K1 
+ Phone: 587-707-9635 
+ Fax: 000-000-0000 
+ Attn: Catalina Sanchez 
+","[{'agent_ID': 'SSLP', 'agent_name': 'Suffield Solar LP'}]"
+187,Journey Energy Inc.,JOEP,"Suite 700 
+507 10th Ave SW 
+Suite 700 
+Calgary, AB T2R 0A8 
+ Phone: 403-605-2592 
+ Fax: 403-232-1315 
+ Attn: Richard Tracy 
+",
+188,Just Energy Alberta L.P.,AES2,"6345 Dixie Road 
+Suite 200 
+6345 Dixie Road 
+Mississauga, Ontario L5T 2E6 
+ Phone: 905-795-3588 
+ Fax: 419-795-3583 
+ Attn: John Marcinko 
+",
+189,Keyera Partnership,KEY,"Suite 600 
+144-4th Avenue SW 
+Suite 600 
+Calgary, Alberta T2P 3N4 
+ Phone: 403-718-7932 
+ Fax: 403-205-8397 
+ Attn: Vicki Werner 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+190,Kiwetinohk Energy Corp.,KTRC,"Suite 1900 
+250 - 2 Street SW 
+Suite 1900 
+Calgary, AB T2P 0C1 
+ Phone: 403-875-2079 
+ Fax: 000-000-0000 
+ Attn: Jim Floyd 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+191,Kneehill Solar LP,KSLP,"Suite 2930 
+155 Wellington Street West 
+Suite 2930 
+Toronto, ON M5V 3H1 
+ Phone: 403-601-9282 
+ Fax: xxx-xxx-xxxx 
+ Attn: Justin Longlade 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+192,Lakeland REA Ltd.,LREA,"Box 1497 
+Vegreville, Alberta T9C 1S6 
+ Phone: (780)632-6112 
+ Fax: (780)632-6116 
+ Attn: Darryl Werstiuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+193,Lakeland REA Ltd.,LRE2,"Box 1497 
+Box 1497 
+Vegreville, Alberta T9C 1S6 
+ Phone: (780) 632-6112 
+ Fax: (780) 632-6116 
+ Attn: Darryl Werstiuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+194,Lakeland REA Ltd.,LRE5,"Box 1497 
+Box 1497 
+Vegreville, Alberta T9C 1S6 
+ Phone: (780) 632-6112 
+ Fax: (780) 632-6116 
+ Attn: Darryl Werstiuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+195,Lakeland REA Ltd.,LRE4,"Box 1497 
+Box 1497 
+Vegreville, Alberta T9C 1S6 
+ Phone: (780) 632-6112 
+ Fax: (780) 632-6116 
+ Attn: Darryl Werstiuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+196,Lakeland REA Ltd.,L11,"Box 1497 
+Box 1497 
+Vegreville, AB T9C1S6 
+ Phone: 780-632-6112 
+ Fax: 780-632-6116 
+ Attn: Darryl Werstiuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+197,Lakeland Rural Electrification Association Ltd.,LRE8,"Box 1497 
+Box 1497 
+Vegreville, Alberta T9C 1S6 
+ Phone: 780-632-6112 
+ Fax: 780-632-6116 
+ Attn: Darryl Werstiuk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+198,Lakeside Colony Farming Co. Ltd.,LCFC,"PO Box. 9 
+PO Box. 9 
+Cranford, AB T0K 0R0 
+ Phone: 403-888-9774 
+ Fax: 888-847-7857 
+ Attn: Ehab Idriss 
+","[{'agent_ID': '93CI', 'agent_name': '9321233 Canada Inc.'}]"
+199,Lanfine Wind 1 LP,LNWL,"1088 Sansome St 
+1088 Sansome St 
+San Francisco, CA 94111 
+ Phone: 713-308-4219 
+ Fax: 000-000-0000 
+ Attn: John O'Neill 
+",
+200,Lemalu Holdings Ltd. O/A MCSNet,MCSN,"Box 98 
+Box 98 
+St. Paul, Alberta T0A 3A0 
+ Phone: (780) 646-0848 
+ Fax: 780-645-5745 
+ Attn: Jason Sundt 
+",
+201,"Lethbridge Biogas LP, by its General Partner Lethbridge Biogas General Partner Inc.",LBG,"4456 8th Ave North 
+4456 8th Ave North 
+Lethbridge, Alberta T1H 6W5 
+ Phone: 403-328-1429 
+ Fax: 403-328-1511 
+ Attn: Ed Mulder 
+",
+202,Linde Canada Inc.,PCI,"1 City Centre Dr., Suite 1200 
+Mississauga, Ontario L5B 1M2 
+ Phone: 905-301-2596 
+ Fax: xxx-xxx-xxxx 
+ Attn: Peter Strong 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+203,LogiCan Technologies Inc.,LOGI,"150 Karl Clark Road 
+150 Karl Clark Road 
+Edmonton, AB T6N 1E2 
+ Phone: 780-450-4485 
+ Fax: 780-450-4411 
+ Attn: Naveed Ahmed 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+204,MAG Energy Solutions Inc.,MAGE,"999 Boulevard de Maisonneuve O 
+#875 
+999 Boulevard de Maisonneuve O 
+Montreal, Quebec H3A 3L4 
+ Phone: 514-227-1654 
+ Fax: 514-303-3336 
+ Attn: Francis Roberge 
+",
+205,MEG Energy Corp.,MEG2,"530 3rd Ave. SW 
+530 3rd Ave. SW 
+Calgary, Alberta T2P 0R3 
+ Phone: 587-293-6069 
+ Fax: 587-293-6069 
+ Attn: Heather McDermid 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+206,MEG Energy Corp.,MEGE,"11th Floor 
+520-3rd Avenue SW 
+11th Floor 
+Calgary, Alberta T2P 0R3 
+ Phone: 587-293-6069 
+ Fax: 587-293-6069 
+ Attn: Heather McDermid 
+",
+207,MFT Energy US Power LLC,MFTP,"Ste 500, 70 W. Madison St. 
+Ste 500, 70 W. Madison St. 
+Chicago, IL 60602 
+ Phone: 913-353-2279 
+ Fax: xxx-xxx-xxxx 
+ Attn: Ryan Harrison 
+",
+208,Macquarie Energy Canada Ltd.,MQEC,"500 Dallas Street 
+Level 33 
+500 Dallas Street 
+Houston, TX 77002 
+ Phone: 713-275-7498 
+ Fax: 713-275-8978 
+ Attn: Jeff Harris 
+",
+209,Maxim Power Corp.,MPC,"1210, 715 - 5th Ave SW 
+1210, 715 - 5th Ave SW 
+Calgary, Alberta T2P 2X6 
+ Phone: 403-750-9317 
+ Fax: 403-263-9125 
+ Attn: Rob Watson 
+",
+210,Mayerthorpe & District REA Ltd.,OREA,"Box 901 
+Box 901 
+Mayerthorpe, Alberta T0E 1N0 
+ Phone: (780) 786-4370 
+ Fax: (780) 786-4378 
+ Attn: Dannie Fischer 
+","[{'agent_ID': 'TRL', 'agent_name': 'TRL Gas Co-op Ltd.'}]"
+211,Mercer Peace River Pulp Ltd.,DAIS,"Pulp Mill Site 
+P.O. Bag 4400 
+Peace River, Alberta T8S 1V7 
+ Phone: 780-624-7220 
+ Fax: xxx-xxx-xxxx 
+ Attn: Roger Ashfield 
+","[{'agent_ID': 'INSI', 'agent_name': 'Insitu Power Corporation'}]"
+212,Mercuria Commodities Canada Corporation,UBSC,"600, 326 11th Avenue S.W. 
+600, 326 11th Avenue S.W. 
+Calgary, Alberta T2R 0C5 
+ Phone: 403-532-2021 
+ Fax: 403-532-2097 
+ Attn: Jason Biever 
+",
+213,Metis Crossing Solar Ltd.,MCSL,"2350, 330 - 5th Ave SW 
+2350, 330 - 5th Ave SW 
+Calgary, AB T2P0L4 
+ Phone: 403-539-5350 
+ Fax: xxx-xxx-xxxx 
+ Attn: Balancing Pool 
+",
+214,Michichi Solar LP,MSLP,"Suite 2930 
+155 Wellington Street West 
+Suite 2930 
+Toronto, ON M5K 1A2 
+ Phone: 403-601-9282 
+ Fax: xxx-xxx-xxxx 
+ Attn: Justin Longlade 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+215,Millar Western Forest Products ULC,MWFP,"16640 - 111 Avenue 
+16640 - 111 Avenue 
+Edmonton, Alberta T5M 2S5 
+ Phone: 780-778-2036 
+ Fax: 780-778-4384 
+ Attn: Nrip Dogra 
+","[{'agent_ID': 'INSI', 'agent_name': 'Insitu Power Corporation'}]"
+216,"Milner Power II Limited Partnership by its General Partner, Milner Power II Inc",MLPR,"1210 715-5 Ave SW 
+1210 715-5 Ave SW 
+Calgary, AB T2P 2X6 
+ Phone: 403-750-9317 
+ Fax: 403-263-9125 
+ Attn: Rob Watson 
+","[{'agent_ID': 'MPC', 'agent_name': 'Maxim Power Corp.'}]"
+217,Milner Power Limited Partnership by its General Partner Milner Power Inc.,MPLP,"1220, 715- 5th Avenue SW 
+1220, 715- 5th Avenue SW 
+Calgary, Alberta T2P 2X6 
+ Phone: 403-750-9317 
+ Fax: 403-263-9125 
+ Attn: Rob Watson 
+","[{'agent_ID': 'MPC', 'agent_name': 'Maxim Power Corp.'}]"
+218,Mondi Hinton Inc.,MOHI,"600-12220 STONY PLAIN RD NW 
+600-12220 STONY PLAIN RD NW 
+Edmonton, AB T5N 3Y4 
+ Phone: 664-844-6803 
+ Fax: xxx-xxx-xxxx 
+ Attn: Christian Halbartschlager 
+","[{'agent_ID': 'INSI', 'agent_name': 'Insitu Power Corporation'}]"
+219,Morgan Stanley Capital Group Inc.,MSCG,"2000 Westchester Avenue 
+1st Floor 
+2000 Westchester Avenue 
+Purchase, New York 10577 
+ Phone: 604-658-8116 
+ Fax: 604-695-8809 
+ Attn: Ryan Killam 
+",
+220,NAT-1 Limited Partnership,NEPL,"Suite 3020, 255-5 Ave SW 
+Suite 3020, 255-5 Ave SW 
+Calgary, AB T2P 3G6 
+ Phone: 403-818-0058 
+ Fax: xxx-xxx-xxxx 
+ Attn: Sharmen Andrew 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+221,NOVA Gas Transmission Ltd.,NGTL,"450-1st Street SW 
+Calgary, Alberta T2P 5H1 
+ Phone: 403-920-7960 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jae Kim 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+222,NPS Industrial Power Corp.,NPSI,"1220, 700 4th Ave SW 
+1220, 700 4th Ave SW 
+Calgary, AB T2P 3J4 
+ Phone: 587-475-0600 
+ Fax: xxx-xxx-xxxx 
+ Attn: Arnie Hansen 
+",
+223,NRGreen Power Limited Partnership,NRG,"200 -425 1st Street SW 
+200 -425 1st Street SW 
+Calgary, Alberta T2P 3L8 
+ Phone: 403-990-1202 
+ Fax: xxx-xxx-xxxx 
+ Attn: Eugene Kuhn 
+",
+224,"NextEra Energy Marketing, LLC",NEPM,"700 Universe Blvd 
+700 Universe Blvd 
+Juno Beach, Florida 33408 
+ Phone: 561-304-5310 
+ Fax: 561-625-7642 
+ Attn: Bonny Arena 
+",
+225,Neyaskweyahk Sundancer GP Ltd.,NYSG,"PO Box 1320 
+PO Box 1320 
+Maskwacis, Alberta T0C 1N0 
+ Phone: 780-585-3000 
+ Fax: 780-585-0721 
+ Attn: Herman (Samuel) Minde 
+",
+226,Niton Rural Electrification Assoc. Ltd.,TREA,"12126 Township Road 554 
+12126 Township Road 554 
+Yellowhead County, Alberta T7E 5B8 
+ Phone: (780) 795-2170 
+ Fax: (403) 265-7290 
+ Attn: Ron DeLeeuw 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+227,North Parkland Power REA Ltd.,NREA,"PO Box501 
+Thorhild, Alberta T0A 3J0 
+ Phone: 780-398-2000 
+ Fax: 780-398-2025 
+ Attn: Vicki Zinyk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+228,North Parkland Power REA Ltd.,NRE2,"PO Box 501 
+Thorhild, Alberta T0A 3J0 
+ Phone: 780-398-2000 
+ Fax: 780-398-2025 
+ Attn: Vicki Zinyk 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+229,NorthPoint Energy Solutions Inc.,NESI,"3SE - 2025 Victoria Avenue 
+Regina, Saskatchewan S4P 0S1 
+ Phone: 306-566-2675 
+ Fax: 000-000-0000 
+ Attn: Aaron Boodhoo 
+",
+230,NorthRiver Midstream Partners,SMID,"2200 
+425-1st Street 
+2200 
+Calgary, Alberta T2P 3L8 
+ Phone: 250-795-0628 
+ Fax: xxx-xxx-xxxx 
+ Attn: Andrew Benjamin 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+231,Northstone Power Corp.,NPC,"Box 5203 
+Spruce Grove, Alberta T7X 3A3 
+ Phone: (780)960-2330 
+ Fax: (780)960-9293 
+ Attn: Doug St. Pierre 
+","[{'agent_ID': 'INSI', 'agent_name': 'Insitu Power Corporation'}]"
+232,NuVista Energy LTD.,NVEL,"2500, 525 8th Ave SW 
+2500, 525 8th Ave SW 
+Calgary, AB T2P 1G1 
+ Phone: 403-538-8537 
+ Fax: xxx-xxx-xxxx 
+ Attn: Patrick Cloutier 
+","[{'agent_ID': 'DECI', 'agent_name': 'Desiderata Energy Consulting Inc.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+233,Nutrien (Canada) Holdings ULC,AGRI,"13131 Lake Fraser Drive SE 
+Calgary, Alberta T2J 7E8 
+ Phone: 847-849-4224 
+ Fax: xxx-xxx-xxxx 
+ Attn: Terry Lewandowski 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+234,OK Hutterian Brethren,OKHB,"Box 540 
+Box 540 
+Raymond, AB T0K 2S0 
+ Phone: 403-752-0137 
+ Fax: 403-752-4726 
+ Attn: Joseph Hofer 
+",
+235,Oldman 2 Wind Farm Limited,OWFL,"190 S. LaSalle Street 
+Suite 1120 
+190 S. LaSalle Street 
+Chicago, IL 60603 
+ Phone: +31 (0)6 83 444 863 
+ Fax: xxx-xxx-xxxx 
+ Attn: John Harris 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+236,Oldman 2 Wind Farm Limited,OWF2,"1065 Plains Road East 
+1065 Plains Road East 
+Burlington, ON L7T 4K1 
+ Phone: 0031683444863 
+ Fax: 0031683444863 
+ Attn: John Harris 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+237,Ontario Power Generation Inc.,OPGI,"700 University Ave 
+700 University Ave 
+Toronto, ON M5G 1X6 
+ Phone: 416-592-6012 
+ Fax: xxx-xxx-xxxx 
+ Attn: Bashir Bhana 
+",
+238,Ovintiv Canada ULC,PCES,"500 Centre Street SE 
+P.O. Box 2850 
+500 Centre Street SE 
+Calgary, Alberta T2P 2S5 
+ Phone: 403-645-3622 
+ Fax: xxx-xxx-xxxx 
+ Attn: Tyler Fischer 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+239,Ozark Resources Limited,OZRK,"110 Elbow River Road 
+110 Elbow River Road 
+Calgary, AB T3Z 2V2 
+ Phone: 403-860-5131 
+ Fax: xxx-xxx-xxxx 
+ Attn: Alan Hudye 
+",
+240,PACE Canada LP,PACE,"Suite 700 
+602 12th Ave SW 
+Suite 700 
+Calgary, AB T2R 1J3 
+ Phone: 403-793-1383 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jay Philipsen 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}, {'agent_ID': 'URBP', 'agent_name': 'URICA Energy Real Time Ltd. (Agent for BALP)'}, {'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}]"
+241,Paintearth Wind Project Limited Partnership,PWLP,"200 Wellington Street West 
+Suite 1102 
+200 Wellington Street West 
+Toronto, ON M5V 3C7 
+ Phone: 647-236-6936 
+ Fax: 000-000-0000 
+ Attn: Hemanth Shankar 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+242,Pathfinder Energy Ltd,NXEA,"158 Tuscany Vista Pt 
+158 Tuscany Vista Pt 
+Calgary, AB T3L 3A1 
+ Phone: 403-669-4654 
+ Fax: xxx-xxx-xxxx 
+ Attn: Lance McKinnon 
+",
+243,Peace Power Services Corporation,PPSC,"4339 147 Street NW 
+4339 147 Street NW 
+Edmonton, AB T6H 5V3 
+ Phone: 780-668-9493 
+ Fax: 000-000-0000 
+ Attn: Chad Mielke 
+","[{'agent_ID': 'PBUB', 'agent_name': 'Powerbill Utility Billing Solutions Inc.'}]"
+244,Peigan Indian Rural Electrification Association Ltd.,PUC,"Box 70 
+Box 70 
+Brocket, Alberta T0K 0H0 
+ Phone: 403-965-3092 
+ Fax: 403-965-2626 
+ Attn: Vanessa Plain Eagle 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+245,Pembina Empress NGL Partnership,PENP,"Suite 4000 
+585 - 8th Ave SW 
+Suite 4000 
+Calgary, AB T2P 1G1 
+ Phone: 403-231-6313 
+ Fax: 000-000-0000 
+ Attn: Davis Ronsky 
+",
+246,Pembina NGL Corporation,PEL,"2100, 250 - 2nd Street, S.W. 
+2100, 250 - 2nd Street, S.W. 
+Calgary, Alberta T2P 0C1 
+ Phone: (403) 218-6902 
+ Fax: (403) 262-4540 
+ Attn: Alex Chulsky 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+247,Pembina Pipeline Corporation,PPC,"4000, 585 - 8th Ave SW 
+4000, 585 - 8th Ave SW 
+Calgary, Alberta T2P 1G1 
+ Phone: 403-231-7496 
+ Fax: xxx-xxx-xxxx 
+ Attn: Kelly McLean 
+","[{'agent_ID': 'EEC', 'agent_name': 'ENMAX Energy Corporation'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+248,Perpetual Operating Corp.,PPTO,"605 5 Ave SW 
+Suite 3200 
+605 5 Ave SW 
+Calgary, AB T2P 3H5 
+ Phone: 403-269-6318 
+ Fax: 403-269-4444 
+ Attn: Jim Wilton-Clark 
+","[{'agent_ID': 'PESI', 'agent_name': 'Peters Energy Solutions Inc.'}]"
+249,PetroChina Canada Ltd.,BREC,"Suite 2700, 707 5 Street SW 
+Suite 2700, 707 5 Street SW 
+Calgary, Alberta T2P 1V8 
+ Phone: 403-817-2652 
+ Fax: 000-000-0000 
+ Attn: Amanda Jackson 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+250,Peyto Energy Partnership,TAL1,"Suite 300 
+600 3rd Ave SW 
+Suite 300 
+Calgary, Alberta T2P 0G5 
+ Phone: 780-806-1470 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jim Cooper 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+251,Peyto Energy Partnership,TAL,"Suite 300 
+600 3rd Ave SW 
+Suite 300 
+Calgary, Alberta T2P 0G5 
+ Phone: 780-806-1470 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jim Cooper 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+252,Pieridae Alberta Production Ltd.,PRDA,"2100, 308 4th Ave SW 
+2100, 308 4th Ave SW 
+Calgary, AB T2P 0H7 
+ Phone: 403-685-2455 
+ Fax: 403-261-5902 
+ Attn: Thomas Dawson 
+",
+253,Piikani Resource Development Ltd.,PRD,"P.O. Box 3242 
+P.O. Box 3242 
+Brocket, Alberta T0K 0H0 
+ Phone: 403-965-3092 
+ Fax: 403-965-2626 
+ Attn: Katrina Shade 
+",
+254,Pincher Creek Limited Partnership,PCLP,"Suite 300 
+100 Brickstone Square 
+Suite 300 
+Andover, MA 01810 
+ Phone: 978-773-0725 
+ Fax: xxx-xxx-xxxx 
+ Attn: Edwin Cambero 
+","[{'agent_ID': 'CRR', 'agent_name': 'Castle Rock Ridge LP'}]"
+255,Portland General Electric Company,PGEM,"121 SW Salmon ST, IOC 
+121 SW Salmon ST, IOC 
+Portland, OR 97204 
+ Phone: 503-464-2919 
+ Fax: xxx-xxx-xxxx 
+ Attn: Darrington Outama 
+",
+256,Powerbill Utility Billing Solutions Inc.,PBUS,"11012 Macleod Trail SE 
+Suite 760 
+11012 Macleod Trail SE 
+Calgary, Alberta T2J 6A5 
+ Phone: 403-703-4209 
+ Fax: 000-000-0000 
+ Attn: Jodie Allan 
+",
+257,Powerbill Utility Billing Solutions Inc.,PBUB,"11012 Macleod Trail SE 
+Suite 760 
+11012 Macleod Trail SE 
+Calgary, Alberta T2J 6A5 
+ Phone: 403-703-4209 
+ Fax: 403-703-4209 
+ Attn: Jodie Allan 
+",
+258,Powerex Corp.,PWX,"1300 - 666 Burrard Street 
+Vancouver, British Columbia V6C 2X8 
+ Phone: 778-680-5435 
+ Fax: 604-891-6060 
+ Attn: Brian Donnelly 
+",
+259,Prairie Power Ltd.,PAPL,"5803-42nd Street 
+Innisfail, Alberta T4G 1S8 
+ Phone: (403) 227-4011 
+ Fax: (403) 227-4478 
+ Attn: Pat Bourne 
+",
+260,Rainbow Energy Marketing Corporation,REMC,"PO Box 837 
+918 E Divide Ave, 3rd Floor 
+PO Box 837 
+Bismarck, North Dakota 58502 
+ Phone: 701-222-2290 
+ Fax: 701-255-7952 
+ Attn: Joe Wolfe 
+",
+261,Reidco Power Corp.,RPC,"322 1st.  St. East 
+Box 29 
+322 1st.  St. East 
+Cremona, Alberta T0M 0R0 
+ Phone: 403-637-3775 
+ Fax: 403-637-2193 
+ Attn: Robert Reid 
+",
+262,Riverview Limited Partnership,RVLP,"Suite 300 
+100 Brickstone Square 
+Suite 300 
+Andover, MA 01810 
+ Phone: 978-773-0725 
+ Fax: xxx-xxx-xxxx 
+ Attn: Edwin Cambero 
+","[{'agent_ID': 'CRR', 'agent_name': 'Castle Rock Ridge LP'}]"
+263,Rocky REA Ltd.,RRE2,"PO Box 1538 
+4920 43 Street 
+PO Box 1538 
+Rocky Mountain House, Alberta T4T 1B2 
+ Phone: (403) 845-4600 
+ Fax: (403) 845-2751 
+ Attn: Evan Staal 
+",
+264,Rocky REA Ltd.,RREA,"4920 43 Street 
+PO Box 1538 
+4920 43 Street 
+Rocky Mountain, Alberta T4T 1B2 
+ Phone: 403-845-4600 
+ Fax: 403-845-2751 
+ Attn: Evan Staal 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+265,Royal Bank of Canada,RBOC,"2nd Floor 
+200 Bay Street 
+2nd Floor 
+Toronto, ON M5J 2J5 
+ Phone: 416-842-9651 
+ Fax: 000-000-0000 
+ Attn: Brandon Everhardt 
+",
+266,Saddlebrook Solar & Storage Limited Partnership,SDLP,"450 1st Street SW 
+450 1st Street SW 
+Calgary, AB T2P 5H1 
+ Phone: 403-216-2905 
+ Fax: xxx-xxx-xxxx 
+ Attn: Lance Bellanger 
+",
+267,Shell Canada Limited,SHE2,"400 4th Avenue SW 
+400 4th Avenue SW 
+Calgary, Alberta T2P 0J4 
+ Phone: 403-691-4529 
+ Fax: 403-264-7058 
+ Attn: Mary Parnetta 
+","[{'agent_ID': 'DECI', 'agent_name': 'Desiderata Energy Consulting Inc.'}, {'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+268,Shell Canada Limited,SHEL,"400, 4th Ave S.W. 
+P.O. Box 1480 Station M 
+400, 4th Ave S.W. 
+Calgary, Alberta T2P 2L6 
+ Phone: 403-691-4529 
+ Fax: 403-264-7058 
+ Attn: Mary Parnetta 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}, {'agent_ID': 'DECI', 'agent_name': 'Desiderata Energy Consulting Inc.'}]"
+269,Shell Energy North America (Canada) Inc.,CECI,"3500, 450 - 1 Street SW 
+Calgary, Alberta T2P 5H1 
+ Phone: 509-688-6110 
+ Fax: xxx-xxx-xxxx 
+ Attn: Chad Cooper 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+270,Shell Energy North America (Canada) Inc.,SENA,"#3500, 450-1st Street SW 
+#3500, 450-1st Street SW 
+Calgary, Alberta T2P 5H1 
+ Phone: 713-230-3137 
+ Fax: 713-230-3137 
+ Attn: Fabian Careta 
+",
+271,Signalta Resources Limited,SNRL,"PO Box 6150, Postal Station ¿D 
+PO Box 6150, Postal Station ¿D 
+Calgary, Alberta T2P 2C7 
+ Phone: 403-265-5091 
+ Fax: 403-262-7533 
+ Attn: Colin Thompson 
+","[{'agent_ID': 'URAO', 'agent_name': 'URICA Asset Optimization Ltd.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+272,SociVolta Inc.,SVLT,"5455 De Gaspe Ave 
+Suite 710 
+5455 De Gaspe Ave 
+Montreal, QC H2T 3B3 
+ Phone: 438-792-0936 
+ Fax: 514-418-2492 
+ Attn: Stuart Casgrain 
+",
+273,Solartility Inc.,SLTL,"110, 7330 Fisher St. SE 
+110, 7330 Fisher St. SE 
+Calgary, AB T2H 2H8 
+ Phone: 604-208-1857 
+ Fax: xxx-xxx-xxxx 
+ Attn: Kelly Tallas 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+274,Spoke Resources Ltd.,SPKR,"Suite 900, 140 - 4th Ave SW 
+Suite 900, 140 - 4th Ave SW 
+Calgary, AB T2P 3N3 
+ Phone: 587-700-8997 
+ Fax: xxx-xxx-xxxx 
+ Attn: Perry Zich 
+","[{'agent_ID': 'SRAM', 'agent_name': 'Sproule Asset Management'}]"
+275,Stirling Renewable Energy Limited Partnership,SRLP,"Suite 1102, 200 Wellington Str 
+Suite 1102, 200 Wellington Str 
+Toronto, ON M5V3C7 
+ Phone: 647-236-6936 
+ Fax: xxx-xxx-xxxx 
+ Attn: Hemanth Shankar 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+276,Strathcona Resources Ltd.,PGCP,"1900, 421 7th Ave SW 
+1900, 421 7th Ave SW 
+Calgary, AB T2P 4K9 
+ Phone: 306-968-2010 
+ Fax: xxx-xxx-xxxx 
+ Attn: Seamus Murphy 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+277,Strathcona Resources Ltd.,OPC,"1900, 421 7 Avenue SW 
+1900, 421 7 Avenue SW 
+Calgary, AB T2P 4K9 
+ Phone: 306-753-5233 
+ Fax: xxx-xxx-xxxx 
+ Attn: Seamus Murphy 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+278,Subra Limited Partnership,FCSF,"Telus Sky Tower, Ste 2707 
+685 Centre St SW 
+Telus Sky Tower, Ste 2707 
+Calgary, AB T2G 1S5 
+ Phone: 587-229-4854 
+ Fax: xxx-xxx-xxxx 
+ Attn: Nicolas Echesortu 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+279,Suffield Solar LP,SSLP,"Suite 400 
+214 - 11th Ave SW 
+Suite 400 
+Calgary, AB T2R 0K1 
+ Phone: 587-707-9635 
+ Fax: 000-000-0000 
+ Attn: Catalina Sanchez 
+","[{'agent_ID': 'BEAM', 'agent_name': 'BluEarth Asset Management Inc.'}]"
+280,Suncor Energy Inc.,SCR,"P.O. Box 2844 
+150 - 6th Avenue SW 
+P.O. Box 2844 
+Calgary, Alberta T2P 3E3 
+ Phone: 403-296-4631 
+ Fax: xxx-xxx-xxxx 
+ Attn: Steve Waddell 
+","[{'agent_ID': 'SEMI', 'agent_name': 'Suncor Energy Marketing Inc'}]"
+281,Suncor Energy Inc.,SEPI,"150-6th Ave. SW 
+150-6th Ave. SW 
+Calgary, Alberta T2P 3E3 
+ Phone: 403-296-4631 
+ Fax: xxx-xxx-xxxx 
+ Attn: Steve Waddell 
+","[{'agent_ID': 'EWPG', 'agent_name': 'Enbridge Wind Power GP by way of affiliate Enbridge Power Operations Services Inc.'}]"
+282,Suncor Energy Marketing Inc,SEMI,"150 - 6th Avenue SW 
+P.O. Box 2844 
+150 - 6th Avenue SW 
+Calgary, Alberta T2P 3E3 
+ Phone: T2P 3E3 
+ Fax: xxx-xxx-xxxx 
+ Attn: Steve Waddell 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+283,Suncor Energy Oil Sands Limited Partnership,PCOG,"PO Box 2844, 
+150-6th Ave SW 
+Calgary, Alberta T2P 3E3 
+ Phone: 403-296-4631 
+ Fax: xxx-xxx-xxxx 
+ Attn: Steve Waddell 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+284,Suncor Energy Products Partnership,SEPP,"P.O. Box 2844 
+150 - 6th Avenue SW 
+P.O. Box 2844 
+Calgary, Alberta T2P 3E3 
+ Phone: 403-296-4631 
+ Fax: xxx-xxx-xxxx 
+ Attn: Steve Waddell 
+","[{'agent_ID': 'SEMI', 'agent_name': 'Suncor Energy Marketing Inc'}]"
+285,Sunshine Colony Farming Co. Ltd.,SCFC,"Box 92 
+Box 92 
+Hussar, AB T0J 1S0 
+ Phone: 403-901-7564 
+ Fax: 403-901-7564 
+ Attn: David Walter 
+",
+286,Sutton Energy Ltd.,SELD,"PO Box 21145 Dominion 
+PO Box 21145 Dominion 
+Calgary, Alberta T2P 4H5 
+ Phone: 403-510-1607 
+ Fax: 000-000-0000 
+ Attn: Brent Gough 
+",
+287,Swan Hills Geothermal Power Corp.,SHGC,"500 - 5th Ave SW 
+Suite 900 
+500 - 5th Ave SW 
+Calgary, Alberta T2P 3L5 
+ Phone: 403-992-5264 
+ Fax: 000-000-0000 
+ Attn: Julliane Twa 
+","[{'agent_ID': 'EEC', 'agent_name': 'ENMAX Energy Corporation'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+288,Syncrude Canada Ltd.,SCL,"P O Bag 4009, M.D. 0019 
+Fort McMurray, Alberta T9H 3L1 
+ Phone: 403-296-8953 
+ Fax: xxx-xxx-xxxx 
+ Attn: Julio Aparicio 
+","[{'agent_ID': 'SEMI', 'agent_name': 'Suncor Energy Marketing Inc'}]"
+289,TA Alberta Hydro LP,TAHL,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 403-267-4701 
+ Fax: xxx-xxx-xxxx 
+ Attn: Daniel Webster 
+","[{'agent_ID': 'TAU', 'agent_name': 'TransAlta Generation Partnership'}]"
+290,TEC Energy Inc.,TEC,"5455 Av De Gaspé, Suite 420 
+5455 Av De Gaspé, Suite 420 
+Montreal, Quebec H2T 3B3 
+ Phone: 514-502-8068 
+ Fax: 514-221-4820 
+ Attn: Etienne Lapointe 
+",
+291,Taber Solar 1 Inc.,TASO,"c/o TecConnect Attn: Asset Mgr 
+3582 30th Street North 
+Suite 608 
+c/o TecConnect Attn: Asset Mgr 
+Lethbridge, AB T1H 6Z4 
+ Phone: 512-431-3161 
+ Fax: xxx-xxx-xxxx 
+ Attn: Travis Carmen 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+292,Taber Solar 2 Inc.,TAST,"1055 West Hasting Street 
+Suite 1700 
+1055 West Hasting Street 
+Vancouver, BC V6E 2E9 
+ Phone: 512-431-3161 
+ Fax: xxx-xxx-xxxx 
+ Attn: Travis Carmen 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+293,"Tenaska Power Canada, a division of TPS Corp.",TPCI,"1701E Lamar Blvd. 
+Suite 100 
+1701E Lamar Blvd. 
+Arlington, Texas 76006 
+ Phone: 817-462-1506 
+ Fax: 817-303-1104 
+ Attn: Sheila Pakulski 
+",
+294,Teric Power Ltd.,TERC,"3300 Bow Valley Square II 
+205 - 5 Ave SW 
+3300 Bow Valley Square II 
+Calgary, Alberta T2P 2V7 
+ Phone: 403-660-5236 
+ Fax: 403-375-0201 
+ Attn: Craig Barnes 
+",
+295,The City of Calgary,COC,"P.O. Box 2100 
+Station M, #224 
+P.O. Box 2100 
+Calgary, AB T2P 2M5 
+ Phone: (403)268-1151 
+ Fax: (403)268-2066 
+ Attn: Ron Raymond 
+",
+296,The Manitoba Hydro-Electric Board,MANH,"360 Portage Avenue 
+16th Floor 
+360 Portage Avenue 
+Winnipeg, Manitoba R3C 0G8 
+ Phone: 204-360-4066 
+ Fax: 000-000-0000 
+ Attn: Jacqueline Marques 
+",
+297,Three Nations Energy GP Inc.,TNEG,"220 Taiganova Cresent 
+220 Taiganova Cresent 
+Fort McMurray, AB T9K 0T4 
+ Phone: 403-539-5350 
+ Fax: xxx-xxx-xxxx 
+ Attn: Balancing Pool Pool 
+","[{'agent_ID': 'BALP', 'agent_name': 'Balancing Pool'}]"
+298,Tourmaline Oil Corp.,TMOC,"3700 250 6th Ave SW 
+3700 250 6th Ave SW 
+Calgary, Alberta T2P 3H7 
+ Phone: 403-767-5938 
+ Fax: 403-767-5938 
+ Attn: Carl Miiller 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+299,"Town Square Energy Canada, Ltd.",TSQE,"208 W Chandler Heights Rd 
+Suite 102 
+208 W Chandler Heights Rd 
+Chandler, Arizona 85248 
+ Phone: 973-438-5821 
+ Fax: xxx-xxx-xxxx 
+ Attn: Randal Miller 
+",
+300,Trans Mountain Pipeline L.P.,TPLP,"Suite 2700 
+300-5th Avenue SW 
+Suite 2700 
+Calgary, AB T2P 5J2 
+ Phone: 403-514-6713 
+ Fax: 403-514-6468 
+ Attn: Steve Irsa 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+301,TransAlta Corporation,VQW,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 418-579-1074 
+ Fax: 000-000-0000 
+ Attn: Anik Whittom 
+",
+302,TransAlta Corporation,TAC3,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 418-579-1074 
+ Fax: 000-000-0000 
+ Attn: Anik Whittom 
+","[{'agent_ID': 'VQW', 'agent_name': 'TransAlta Corporation'}]"
+303,TransAlta Corporation,TAC2,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 780-731-5311 
+ Fax: 780-731-6080 
+ Attn: Ryan Braden 
+",
+304,TransAlta Energy Marketing Corp.,GSAE,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 403-267-6953 
+ Fax: 403-267-6905 
+ Attn: Anjana Brierton 
+","[{'agent_ID': 'SPOS', 'agent_name': 'Sponsor Energy Inc.'}]"
+305,TransAlta Energy Marketing Corp.,TEN3,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 403-267-6953 
+ Fax: 403-267-6906 
+ Attn: Anjana Brierton 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+306,TransAlta Energy Marketing Corp.,TEN,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 403-267-6953 
+ Fax: 403-267-6905 
+ Attn: Anjana Brierton 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+307,TransAlta Energy Marketing Corp.,TEN8,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 877-700-9288 
+ Fax: 000-000-0000 
+ Attn: Security Officer 
+","[{'agent_ID': 'AUBI', 'agent_name': 'Alberta Utility Billing Inc.'}]"
+308,TransAlta Energy Marketing Corp.,TEN6,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: (403) 267-6953 
+ Fax: 1-800-6300572 
+ Attn: Brierton Anjana 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+309,TransAlta Energy Marketing Corp.,TEN5,"Suite 1400 
+1100, 1 ST SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 403-267-6953 
+ Fax: 1-800-630-0572 
+ Attn: Anjana Brierton 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+310,TransAlta Generation Partnership,TAKH,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 403-267-4701 
+ Fax: xxx-xxx-xxxx 
+ Attn: Daniel Webster 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+311,TransAlta Generation Partnership,TAKP,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 403-267-4701 
+ Fax: xxx-xxx-xxxx 
+ Attn: Daniel Webster 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+312,TransAlta Generation Partnership,TASD,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 403-267-4701 
+ Fax: xxx-xxx-xxxx 
+ Attn: Daniel Webster 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+313,TransAlta Generation Partnership,TAU,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, Alberta T2G 1B1 
+ Phone: 780-731-5311 
+ Fax: 780-731-6080 
+ Attn: Ryan Braden 
+","[{'agent_ID': 'TEN', 'agent_name': 'TransAlta Energy Marketing Corp.'}]"
+314,TransAlta Generation Partnership,TAUS,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 403-267-6953 
+ Fax: 403-267-6906 
+ Attn: Anjana Brierton 
+",
+315,TransCanada Energy Ltd.,TCN,"450 - 1st Street SW 
+Calgary, Alberta T2P 5H1 
+ Phone: (403)920-5575 
+ Fax: (403)920-2464 
+ Attn: Lance Bellanger 
+","[{'agent_ID': 'UNP', 'agent_name': 'Utility Network & Partners Inc.'}]"
+316,TransCanada Energy Sales Ltd.,TCES,"450 1st Street SW 
+450 1st Street SW 
+Calgary, Alberta T2P 5H1 
+ Phone: 403-920-5575 
+ Fax: 403-920-2464 
+ Attn: Lance Bellanger 
+","[{'agent_ID': 'TCN', 'agent_name': 'TransCanada Energy Ltd.'}]"
+317,TransCanada PipeLines Limited,TCP,"450 - 1st Street S.W. 
+450 - 1st Street S.W. 
+Calgary, AB T2P 5H1 
+ Phone: 587-437-2130 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jae Kim 
+",
+318,Travers 3 Solar LP,TRVS,"2020 Robert-Bourassa Blvd 
+Suite 2500 
+2020 Robert-Bourassa Blvd 
+Montreal, Quebec H3A 2A5 
+ Phone: 514-954-6719 
+ Fax: 514-282-6478 
+ Attn: Jonathan Price 
+","[{'agent_ID': 'CISC', 'agent_name': 'Copenhagen Infrastructure Service Co.'}, {'agent_ID': 'CISC', 'agent_name': 'Copenhagen Infrastructure Service Co.'}, {'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+319,URICA Energy Real Time Ltd.,URIC,"Suite 301 
+1117 - 1st Street SW 
+Suite 301 
+Calgary, Alberta T2R 0T9 
+ Phone: 403-457-4699 
+ Fax: xxx-xxx-xxxx 
+ Attn: Sean Rode 
+",
+320,Unger's Lumber & Post Ltd.,UNGL,"Box 6865 
+Box 6865 
+Drayton Valley, Alberta T7A 1S2 
+ Phone: 780-542-1926 
+ Fax: 780-621-0333 
+ Attn: Guido Unger 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+321,University of Alberta,UOFA,"Utilities Department 
+420 General Services Building 
+Utilities Department 
+Edmonton, Alberta T6G 2H1 
+ Phone: 780-492-3126 
+ Fax: (780)492-7582 
+ Attn: Mike Kohlenberg 
+","[{'agent_ID': 'COGN', 'agent_name': 'N. Harris Computer Corporation, through its division Cognera'}]"
+322,University of Calgary,UOFC,"2500 University Drive NW 
+2500 University Drive NW 
+Calgary, AB T2N 1N4 
+ Phone: 403-220-6768 
+ Fax: xxx-xxx-xxxx 
+ Attn: Earl Badger 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+323,Utility Network & Partners Inc.,UNP6,"#200, 1316 9th Avenue SE 
+#200, 1316 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+324,Utility Network & Partners Inc.,UNP5,"#200, 1316 9th Avenue SE 
+#200, 1316 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+325,Utility Network & Partners Inc.,UNP4,"#200, 1316-9th Avenue SE 
+#200, 1316-9th Avenue SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+326,Utility Network & Partners Inc.,UNP3,"#200, 1316- 9th Ave. SE 
+#200, 1316- 9th Ave. SE 
+Calgary, Alberta T2G 0T3 
+ Phone: (403) 244-7299 
+ Fax: (403) 265-7290 
+ Attn: Nick Clark 
+",
+327,Utility Network & Partners Inc.,UNP2,"#200, 1316-9th Avenue SE 
+#200, 1316-9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+328,Utility Network & Partners Inc.,UNPZ,"Suite 200, 1316 9th Avenue SE 
+Suite 200, 1316 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: xxx-xxx-xxxx 
+ Attn: Darren Chu 
+",
+329,Utility Network & Partners Inc.,UNPY,"Suite 200, 1316 9th Avenue SE 
+Suite 200, 1316 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: xxx-xxx-xxxx 
+ Attn: Darren Chu 
+",
+330,Utility Network & Partners Inc.,UNPX,"Suite 200, 1316 9th Avenue SE 
+Suite 200, 1316 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: xxx-xxx-xxxx 
+ Attn: Darren Chu 
+",
+331,Utility Network & Partners Inc.,UNPW,"Suite 200, 1316 9th Avenue SE 
+Suite 200, 1316 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: xxx-xxx-xxxx 
+ Attn: Darren Chu 
+",
+332,Utility Network & Partners Inc.,UNP9,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+333,Utility Network & Partners Inc.,UNP8,"#200, 1316 - 9th Ave SE 
+#200, 1316 - 9th Ave SE 
+Calgary, AB T2G0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+334,Utility Network & Partners Inc.,UNP7,"#200, 1316 - 9th Ave SE 
+#200, 1316 - 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+335,Utility Network & Partners Inc.,UNPF,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+336,Utility Network & Partners Inc.,UNPE,"#200 1316 9th Avenue SE 
+#200 1316 9th Avenue SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+337,Utility Network & Partners Inc.,UNPD,"#200 1316 9th Avenue SE 
+#200 1316 9th Avenue SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+338,Utility Network & Partners Inc.,UNPC,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+339,Utility Network & Partners Inc.,UNPB,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+340,Utility Network & Partners Inc.,UNPA,"#200, 1316-9th Avenue SE 
+#200, 1316-9th Avenue SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+341,Utility Network & Partners Inc.,UNPN,"#200 
+1316 - 9th Avenue SE 
+#200 
+Calgary, AB T2G 0T3 
+ Phone: (403) 244-7299 
+ Fax: (403) 265-7290 
+ Attn: Nick Clark 
+",
+342,Utility Network & Partners Inc.,UNPM,"3200, 1316 - 9th Avenue SE 
+3200, 1316 - 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+343,Utility Network & Partners Inc.,UNPL,"#200, 1316 - 9th Avenue SE 
+#200, 1316 - 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+344,Utility Network & Partners Inc.,UNPK,"#200, 1316 - 9th Avenue SE 
+#200, 1316 - 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+345,Utility Network & Partners Inc.,UNPJ,"#200,1316 - 9th Avenue SE 
+#200,1316 - 9th Avenue SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+346,Utility Network & Partners Inc.,UNPI,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+347,Utility Network & Partners Inc.,UNPH,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+348,Utility Network & Partners Inc.,UNPG,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+349,Utility Network & Partners Inc.,UNPV,"Suite 200 
+1316 - 9 Avenue SE 
+Suite 200 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 000-000-0000 
+ Attn: Darren Chu 
+",
+350,Utility Network & Partners Inc.,UNPU,"#200, 1316 9th Ave SE 
+#200, 1316 9th Ave SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+351,Utility Network & Partners Inc.,UNPT,"200 1316 9 ave SE 
+200 1316 9 ave SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+352,Utility Network & Partners Inc.,UNPS,"200 1316 9 ave SE 
+200 1316 9 ave SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+353,Utility Network & Partners Inc.,UNPR,"200 1316 - 9th Ave SE 
+200 1316 - 9th Ave SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+354,Utility Network & Partners Inc.,UNPQ,"200, 1316 - 9th Ave SE 
+200, 1316 - 9th Ave SE 
+Calgary, AB T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-365-7290 
+ Attn: Nick Clark 
+",
+355,Utility Network & Partners Inc.,UNPP,"#200, 1316 - 9th Avenue SE 
+#200, 1316 - 9th Avenue SE 
+Calgary, Alberta T2G 0T3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+356,Utility Network & Partners Inc.,UNPO,"#200, 1316 9th Avenue SE 
+#200, 1316 9th Avenue SE 
+Calgary, AB T2G OT3 
+ Phone: 403-244-7299 
+ Fax: 403-265-7290 
+ Attn: Nick Clark 
+",
+357,Utility Network & Partners Inc.,UNP,"1405 - 2nd St. S.W. 
+Calgary, AB T2R 0W7 
+ Phone: (403)244-7299 
+ Fax: (403)265-7290 
+ Attn: Nick Clark 
+",
+358,Utility Simple LTD,UTSP,"196 Heritage Isle 
+196 Heritage Isle 
+Heritage Pointe, AB T1S 4J9 
+ Phone: 855-637-2868 
+ Fax: xxx-xxx-xxxx 
+ Attn: Jodie Allan 
+","[{'agent_ID': 'PBUB', 'agent_name': 'Powerbill Utility Billing Solutions Inc.'}]"
+359,Vitol Inc.,VTOL,"Attn: Contract Admin 
+2925 Richmond Ave., Suite 1100 
+Attn: Contract Admin 
+Houston, TX 77098 
+ Phone: 713-230-2424 
+ Fax: xxx-xxx-xxxx 
+ Attn: Stephanie Segura 
+",
+360,Voltus Energy Canada Ltd.,VOLT,"Suite 400 
+119 14th Street NW 
+Suite 400 
+Calgary, Alberta T2N 1Z6 
+ Phone: 718-344-7655 
+ Fax: 000-000-0000 
+ Attn: Dana Guernsey 
+",
+361,West Fraser Mills Ltd.,WFML,"# 501 
+858 Beatty Street 
+Vancouver, British Columbia V6B 1C1 
+ Phone: 780-849-7719 
+ Fax: 780-849-7725 
+ Attn: Shannon Fehr 
+","[{'agent_ID': 'INSI', 'agent_name': 'Insitu Power Corporation'}]"
+362,Wheatland Wind Project LP,WHEL,"Suite 1102 
+200 Wellington Street West 
+Suite 1102 
+Toronto, ON M5V 3C7 
+ Phone: 647-236-6936 
+ Fax: 000-000-0000 
+ Attn: Hemanth Shankar 
+","[{'agent_ID': 'URIC', 'agent_name': 'URICA Energy Real Time Ltd.'}]"
+363,Whitecourt Power Ltd.,ERPS,"Box 1888 
+2 km NW of Whitecourt onHwy 43 
+Whitecourt, Alberta T7S 1P6 
+ Phone: 780-778-3334 
+ Fax: (780) 778-6767 
+ Attn: Brennan Anderson 
+",
+364,Whitla 2 Wind Generation L.P.,WHTW,"1200-10423 101 Street NW 
+1200-10423 101 Street NW 
+Edmonton, AB T5H 0E9 
+ Phone: 780-392-5180 
+ Fax: xxx-xxx-xxxx 
+ Attn: Colleen Legge 
+","[{'agent_ID': 'EGI', 'agent_name': 'Capital Power Generation Services Inc.'}]"
+365,Wild Rose 2 Wind LP,WIRL,"155 Wellington Street West 
+Suite 2930 
+155 Wellington Street West 
+Toronto, ON M5V3H1 
+ Phone: 289-201-3802 
+ Fax: 416-649-1335 
+ Attn: Niamh McAuley 
+",
+366,Wild Rose REA Ltd.,WRRL,"PO Box 5150 
+Westlock, Alberta T7P 2P4 
+ Phone: 780-349-3655 
+ Fax: 780-349-3659 
+ Attn: Stuart Fox-Robinson 
+",
+367,Wild Run LP,WRUL,"100 Brickstone Square 
+Suite 300 
+100 Brickstone Square 
+Andover, MA 01810 
+ Phone: 978-773-0725 
+ Fax: xxx-xxx-xxxx 
+ Attn: Edwin Cambero 
+","[{'agent_ID': 'CRR', 'agent_name': 'Castle Rock Ridge LP'}]"
+368,Wilson Creek Energy Corporation,WCEC,"Suite 850 
+520 5 Ave SW 
+Suite 850 
+Calgary, AB T2P 3R7 
+ Phone: 403-998-1648 
+ Fax: xxx-xxx-xxxx 
+ Attn: Erika Goddard 
+","[{'agent_ID': 'EECA', 'agent_name': 'ENMAX Energy Corporation'}]"
+369,Windrise Wind LP,WRLP,"Suite 1400 
+1100 1 St SE 
+Suite 1400 
+Calgary, AB T2G 1B1 
+ Phone: 403-267-7544 
+ Fax: xxx-xxx-xxxx 
+ Attn: John Thomas 
+","[{'agent_ID': 'VQW', 'agent_name': 'TransAlta Corporation'}]"
+370,"Xoom Energy Canada, ULC",XOEC,"11208 Statesville Road Ste 200 
+11208 Statesville Road Ste 200 
+Huntersville, North Carolina 28078 
+ Phone: 609-524-4683 
+ Fax: 832-584-2273 
+ Attn: Joe Holtman 
+",
+371,Yellow Lake & Burdett Solar LP,YLBS,"Suite 400 
+214 - 11 Ave SW 
+Suite 400 
+Calgary, AB T2R 0K1 
+ Phone: 587-707-9635 
+ Fax: 000-000-0000 
+ Attn: Catalina Sanchez 
+","[{'agent_ID': 'SSLP', 'agent_name': 'Suffield Solar LP'}]"
