@@ -5,7 +5,7 @@
 import pandas as pd
 
 # I used the data fram daily_merit_trim_asset which was created by Sean
-hourly_df = pd.read_csv(r"daily_merit_trim_asset.csv")
+hourly_df = pd.read_csv("Final Deliverables/Profit_analysis/daily_merit_trim_asset.csv")
 
 # Convert the date column to a datetime object
 hourly_df['begin_dateTime_mpt'] = pd.to_datetime(hourly_df['begin_dateTime_mpt'])
@@ -17,13 +17,13 @@ hourly_df['date'] = hourly_df['begin_dateTime_mpt'].dt.date
 average_daily_prices_df = hourly_df.groupby(['date', 'asset_ID'])['block_price'].mean().reset_index()
 
 # Save the result to a CSV file
-average_daily_prices_df.to_csv('average_daily_block_prices_per_asset.csv', index=False)
+average_daily_prices_df.to_csv('Final Deliverables/Profit_analysis/average_daily_block_prices_per_asset.csv')
 
 #Second, calculate marginal cost and then make it into a CSV
 #We used the marginal cost calculation outlined in the lit review: And got fuel cost from the Alberta government, Carbon pricing from the literature, and Variable O&M and heat rate from AESO.
 
 #Read it into a dataframe. The data frame marginal cost was an excel file that contained all the variables listed above
-Marginal_cost_df = pd.read_csv(r'Marginal_cost.csv')
+Marginal_cost_df = pd.read_csv(r'Final Deliverables/Profit_analysis/Marginal_cost.csv')
 
 #Create a variable for Fuel cost
 Fuel_cost=Marginal_cost_df['Fuel_cost']
@@ -65,7 +65,7 @@ for i, fuel_cost in enumerate(Fuel_cost):
 calculation_df.reset_index(drop=True, inplace=True)
 
 # Save the result to a CSV file
-calculation_df.to_csv('Marginal_cost_calculation.csv', index=False)
+calculation_df.to_csv('Final Deliverables/Profit_analysis/Marginal_cost_calculation.csv')
 
 #Third: Create a graph that shows the average bids compared to the marginal cost
 #Author: Emily Deuchar
@@ -74,7 +74,7 @@ import matplotlib.pyplot as plt
 # Define a function to plot generator bids and marginal cost for a given date range
 def plot_data(start_year, start_month, end_month, title):
     # Read the CSV file for generator bids into a DataFrame
-    average_block_prices_df = pd.read_csv('average_daily_block_prices_per_asset.csv')
+    average_block_prices_df = pd.read_csv('Final Deliverables/Profit_analysis/average_daily_block_prices_per_asset.csv')
 
     # Convert the date column to a datetime object
     average_block_prices_df['date'] = pd.to_datetime(average_block_prices_df['date'])
@@ -91,7 +91,7 @@ def plot_data(start_year, start_month, end_month, title):
         plt.scatter(group['date'], group['block_price'], label=f'Generator {asset_id}', marker='x')
 
     # Read the CSV file for marginal cost into a DataFrame
-    marginal_cost_df = pd.read_csv('Marginal_cost_calculation.csv')
+    marginal_cost_df = pd.read_csv('Final Deliverables/Profit_analysis/Marginal_cost_calculation.csv')
     marginal_cost_df['Date'] = pd.to_datetime(marginal_cost_df['Date'])
 
     # Filter marginal cost data for the specified date range
@@ -126,7 +126,7 @@ plot_data(2023, 10, 12, 'Generator Bids from October to December 2023')
 #Define a function to plot the difference between bid price and marginal cost for each asset
 def plot_difference_by_asset(start_year, start_month, end_month, title):
     # Read the CSV file for highest daily generator bids into a DataFrame
-    highest_block_prices_df = pd.read_csv('average_daily_block_prices_per_asset.csv')
+    highest_block_prices_df = pd.read_csv('Final Deliverables/Profit_analysis/average_daily_block_prices_per_asset.csv')
 
     # Convert the date column to a datetime object
     highest_block_prices_df['date'] = pd.to_datetime(highest_block_prices_df['date'])
@@ -139,7 +139,7 @@ def plot_difference_by_asset(start_year, start_month, end_month, title):
     ]
 
     # Read the CSV file for marginal cost into a DataFrame
-    marginal_cost_df = pd.read_csv('Marginal_cost_calculation.csv')
+    marginal_cost_df = pd.read_csv('Final Deliverables/Profit_analysis/Marginal_cost_calculation.csv')
     marginal_cost_df['Date'] = pd.to_datetime(marginal_cost_df['Date'])
 
     # Filter marginal cost data for the specified date range
